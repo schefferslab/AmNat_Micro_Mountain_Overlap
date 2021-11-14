@@ -1,0 +1,2 @@
+model,parameter,overlap_estimate,overlap_SE,stat.overlap,P_value,lwr.overlap,upr.overlap
+linear_everything,(Intercept),1.9685022406726176,0.9294471159288652,2.1179281821810245,0.034181150425227624,0.14681936791741768,3.7901851134278175

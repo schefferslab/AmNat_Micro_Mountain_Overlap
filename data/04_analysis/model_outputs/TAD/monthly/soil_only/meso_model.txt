@@ -1,0 +1,44 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: overlap ~ elevation_change + veg_foliage + snowdepth + (1 | site)
+   Data: mountains
+
+REML criterion at convergence: 763.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.6832 -0.6876 -0.0377  0.5679  2.7350 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 7.753    2.784   
+ Residual             9.508    3.083   
+Number of obs: 147, groups:  site, 14
+
+Fixed effects:
+                 Estimate Std. Error t value
+(Intercept)        11.098      1.503   7.383
+elevation_change  -14.795      4.969  -2.978
+veg_foliage        -7.296      1.660  -4.396
+snowdepth          -4.468      1.384  -3.229
+
+Correlation of Fixed Effects:
+            (Intr) elvtn_ vg_flg
+elevtn_chng -0.732              
+veg_foliage -0.268 -0.195       
+snowdepth   -0.130 -0.041  0.141
+[1] "Parameter Confidence Intervals using confint()"
+                      2.5 %    97.5 %
+.sig01             1.681000  3.999330
+.sigma             2.729428  3.471020
+(Intercept)        8.206592 13.966933
+elevation_change -24.334156 -5.295905
+veg_foliage      -10.526076 -4.135442
+snowdepth         -7.314537 -1.830307
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 4 x 5
+  param             coeff st_error CI_95_low CI_95_high
+  <chr>             <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)       11.1      1.50      8.15      14.0 
+2 elevation_change -14.8      4.97    -24.5       -5.06
+3 veg_foliage       -7.30     1.66    -10.5       -4.04
+4 snowdepth         -4.47     1.38     -7.18      -1.76

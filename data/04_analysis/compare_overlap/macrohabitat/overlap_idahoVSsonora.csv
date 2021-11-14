@@ -1,0 +1,3 @@
+comparison,micro,chi_squared,df,p_value,method
+idahoVSsonora,soil,127.79669981233565,1,1.243498308540992e-29,overlap by macro
+idahoVSsonora,surface,150.17686575447715,1,1.585992883464101e-34,overlap by macro

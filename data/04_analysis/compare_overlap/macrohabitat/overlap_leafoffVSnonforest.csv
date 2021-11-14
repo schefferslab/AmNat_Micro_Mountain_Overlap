@@ -1,0 +1,3 @@
+comparison,micro,chi_squared,df,p_value,method
+leafoffVSnonforest,soil,353.6603279146425,1,6.76181074485129e-79,overlap by macro
+leafoffVSnonforest,surface,30.110979154971687,1,4.080147134499278e-8,overlap by macro

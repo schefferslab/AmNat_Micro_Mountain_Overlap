@@ -1,0 +1,21 @@
+site,macro,elevation,chi_squared,p_value,method
+ID,non-forest,low,20.68196190665377,5.422442147086008e-6,minmax by micro
+OR,coniferous,low,90.2853857227871,2.0616983580117407e-21,minmax by micro
+AZ,non-forest,low,40.68515278674283,1.7884086276453424e-10,minmax by micro
+CO,non-forest,low,6.076667560487158,0.013697892940585182,minmax by micro
+NC,deciduous,low,251.30555864250977,2.689622349984131e-55,minmax by micro
+TN,deciduous,low,135.0439371382889,3.2294285316428116e-31,minmax by micro
+AU,evergreen,low,311.7415358976617,2.023883872969714e-68,minmax by micro
+MD,evergreen,low,217.30301744689368,6.505030107179946e-48,minmax by micro
+PH,evergreen,low,0.3396593888828518,0.5600258951056,minmax by micro
+CR,evergreen,low,63.113806250280895,1.9724731801753808e-14,minmax by micro
+ID,non-forest,high,19.20730612314235,1.172637300837018e-5,minmax by micro
+OR,coniferous,high,82.52998781945283,1.0407906399946064e-19,minmax by micro
+AZ,non-forest,high,15.384322384791519,8.771302382766038e-5,minmax by micro
+CO,non-forest,high,122.9229031446697,1.4497411066684777e-28,minmax by micro
+NC,deciduous,high,122.37210626289635,2.6744516786453806e-27,minmax by micro
+TN,deciduous,high,129.10836101078036,6.421514641544776e-30,minmax by micro
+AU,evergreen,high,145.90265757999785,2.0779756732738104e-32,minmax by micro
+MD,evergreen,high,125.27990050468094,6.249068117882373e-28,minmax by micro
+PH,evergreen,high,56.7454237916042,4.9604388646863055e-14,minmax by micro
+CR,evergreen,high,178.8709339619628,1.4410206479040494e-39,minmax by micro

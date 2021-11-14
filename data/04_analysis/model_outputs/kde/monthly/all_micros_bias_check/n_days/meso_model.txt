@@ -1,0 +1,52 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: Gamma  ( log )
+Formula: overlap ~ elevation_change + veg_foliage + snowdepth + n_days +      (1 | site)
+   Data: mountains
+
+     AIC      BIC   logLik deviance df.resid 
+  -142.6   -113.0     78.3   -156.6      501 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-1.9955 -0.4174  0.1010  0.4663  3.7961 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 0.05021  0.2241  
+ Residual             0.24945  0.4994  
+Number of obs: 508, groups:  site, 33
+
+Fixed effects:
+                 Estimate Std. Error t value Pr(>|z|)    
+(Intercept)       -0.4312     0.3007  -1.434  0.15162    
+elevation_change  -2.4126     0.4526  -5.330  9.8e-08 ***
+veg_foliage       -0.4762     0.1999  -2.382  0.01722 *  
+snowdepth         -0.7221     0.2315  -3.119  0.00182 ** 
+n_days             0.3472     0.3058   1.135  0.25625    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) elvtn_ vg_flg snwdpt
+elevtn_chng -0.633                     
+veg_foliage -0.419  0.048              
+snowdepth    0.064 -0.143  0.087       
+n_days      -0.843  0.348  0.175 -0.135
+[1] "Parameter Confidence Intervals using confint()"
+                      2.5 %     97.5 %
+.sig01            0.0000000  0.5828581
+.sigma            1.2258907  1.6289128
+(Intercept)      -1.3191683  0.3175630
+elevation_change -3.5710786 -1.3710812
+veg_foliage      -0.9844366  0.1612234
+snowdepth        -1.5672529  0.1348346
+n_days           -0.3200428  1.1958162
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 5 x 5
+  param             coeff st_error CI_95_low CI_95_high
+  <chr>             <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)      -0.431    0.301    -1.02      0.158 
+2 elevation_change -2.41     0.453    -3.30     -1.53  
+3 veg_foliage      -0.476    0.200    -0.868    -0.0844
+4 snowdepth        -0.722    0.232    -1.18     -0.268 
+5 n_days            0.347    0.306    -0.252     0.947 

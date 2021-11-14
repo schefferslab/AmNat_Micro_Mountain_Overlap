@@ -1,0 +1,51 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: Gamma  ( log )
+Formula: overlap ~ elevation_change + latitude + n_days + (1 | site)
+   Data: mountains
+
+     AIC      BIC   logLik deviance df.resid 
+  -131.1   -105.8     71.6   -143.1      502 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.0062 -0.4401  0.1297  0.4796  3.1795 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 0.05635  0.2374  
+ Residual             0.24718  0.4972  
+Number of obs: 508, groups:  site, 33
+
+Fixed effects:
+                  Estimate Std. Error  t value Pr(>|z|)    
+(Intercept)      -0.665520   0.002335  -285.01   <2e-16 ***
+elevation_change -2.547041   0.002334 -1091.06   <2e-16 ***
+latitude          0.157192   0.002333    67.38   <2e-16 ***
+n_days            0.271815   0.002333   116.52   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) elvtn_ latitd
+elevtn_chng 0.001               
+latitude    0.000  0.000        
+n_days      0.000  0.000  0.000 
+convergence code: 0
+Model failed to converge with max|grad| = 0.0302703 (tol = 0.002, component 1)
+
+[1] "Parameter Confidence Intervals using confint()"
+                      2.5 %      97.5 %
+.sig01            0.0000000  0.61103260
+.sigma            1.2389016  1.64529100
+(Intercept)      -1.4583162 -0.01145109
+elevation_change -3.7030688 -1.34668323
+latitude         -0.7243366  1.18956981
+n_days           -0.6135904  1.17715055
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 4 x 5
+  param             coeff st_error CI_95_low CI_95_high
+  <chr>             <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)      -0.666  0.00234    -0.670     -0.661
+2 elevation_change -2.55   0.00233    -2.55      -2.54 
+3 latitude          0.157  0.00233     0.153      0.162
+4 n_days            0.272  0.00233     0.267      0.276

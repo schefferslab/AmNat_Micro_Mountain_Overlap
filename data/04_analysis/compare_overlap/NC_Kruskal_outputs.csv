@@ -1,0 +1,4 @@
+"","site","micro","year","chi_squared","df","p_value","method"
+"1","NC mt mitchell","soil",2016,92.3518340535868,1,7.2558736305784e-22,"overlap by foliage"
+"2","NC mt mitchell","surface",2016,35.3889442433976,1,2.70015222061354e-09,"overlap by foliage"
+"3","NC mt mitchell","canopy",2016,0.0415114358642086,1,0.83855390470054,"overlap by foliage"

@@ -1,0 +1,48 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: Gamma  ( log )
+Formula: overlap ~ elevation_change + veg_foliage + snowdepth + (1 | site)
+   Data: mountains
+
+     AIC      BIC   logLik deviance df.resid 
+  -275.5   -253.6    143.8   -287.5      281 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3972 -0.2972  0.0495  0.3801  5.0839 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 0.04218  0.2054  
+ Residual             0.08603  0.2933  
+Number of obs: 287, groups:  site, 27
+
+Fixed effects:
+                 Estimate Std. Error t value Pr(>|z|)    
+(Intercept)        0.1545     0.2037   0.758  0.44831    
+elevation_change  -3.1901     0.5096  -6.260 3.86e-10 ***
+veg_foliage       -0.5986     0.1930  -3.101  0.00193 ** 
+snowdepth         -0.1054     0.1670  -0.631  0.52815    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) elvtn_ vg_flg
+elevtn_chng -0.730              
+veg_foliage -0.445 -0.010       
+snowdepth   -0.030 -0.051  0.049
+[1] "Parameter Confidence Intervals using confint()"
+                     2.5 %     97.5 %
+.sig01            0.000000  1.0341076
+.sigma            1.443324  2.2431446
+(Intercept)      -0.767091  0.9088801
+elevation_change -5.154728 -1.3525039
+veg_foliage      -1.530104  0.4181775
+snowdepth        -2.043228  1.4313522
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 4 x 5
+  param             coeff st_error CI_95_low CI_95_high
+  <chr>             <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)       0.154    0.204    -0.245      0.554
+2 elevation_change -3.19     0.510    -4.19      -2.19 
+3 veg_foliage      -0.599    0.193    -0.977     -0.220
+4 snowdepth        -0.105    0.167    -0.433      0.222

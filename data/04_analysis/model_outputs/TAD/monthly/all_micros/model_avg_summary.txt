@@ -1,0 +1,47 @@
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+lme4::lmer(formula = overlap ~ <3 unique rhs>, data = mountains, na.action = 
+     na.fail)
+
+Component models: 
+      df   logLik    AICc delta weight
+12345  8 -1569.53 3155.34  0.00   0.64
+1235   7 -1571.40 3157.03  1.69   0.27
+1245   7 -1572.54 3159.31  3.96   0.09
+
+Term codes: 
+elevation_change           height         latitude        snowdepth      veg_foliage 
+               1                2                3                4                5 
+
+Model-averaged coefficients:  
+(full average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)        16.556      3.214       3.222   5.139    3e-07 ***
+elevation_change  -15.067      5.951       5.965   2.526   0.0115 *  
+height              8.618      1.124       1.127   7.648   <2e-16 ***
+latitude            4.353      4.423       4.432   0.982   0.3261    
+snowdepth          -1.132      1.507       1.510   0.750   0.4536    
+veg_foliage       -11.981      1.895       1.900   6.307   <2e-16 ***
+ 
+(conditional average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)        16.556      3.214       3.222   5.139    3e-07 ***
+elevation_change  -15.067      5.951       5.965   2.526   0.0115 *  
+height              8.618      1.124       1.127   7.648   <2e-16 ***
+latitude            4.772      4.409       4.420   1.080   0.2803    
+snowdepth          -1.560      1.569       1.573   0.992   0.3214    
+veg_foliage       -11.981      1.895       1.900   6.307   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Joining, by = "rowname"
+[1] "Parameter Confidence Intervals"
+                      2.5 %    97.5 %
+(Intercept)       10.241167 22.870112
+elevation_change -26.759009 -3.375179
+height             6.409719 10.826772
+latitude          -3.891388 13.434977
+snowdepth         -4.642421  1.522995
+veg_foliage      -15.704679 -8.258287

@@ -1,0 +1,34 @@
+site,micro,elevation,macro,flora,latitude,altitude,elevation_change_meters,height_meters,snow,number_years
+AU,canopy,low,evergreen,tropical broadleaf,-11,100,900,20,no winter snow,1
+AU,soil,low,evergreen,tropical broadleaf,-11,100,900,-0.07,no winter snow,1
+AU,surface,low,evergreen,tropical broadleaf,-11,100,900,1,no winter snow,1
+AZ,soil,low,non-forest,sparse shrub,34,275,1005,NA,no winter snow,3
+AZ,surface,low,non-forest,sparse shrub,34,275,1005,NA,no winter snow,3
+CO,soil,low,non-forest,glacial alpine,40,1948,1802,-0.12,winter snow,10
+CO,soil,low,non-forest,glacial alpine,40,1948,1802,-0.12,winter snow,10
+CO,surface,low,non-forest,glacial alpine,40,1948,1802,2,winter snow,10
+CO,surface,low,non-forest,glacial alpine,40,1948,1802,2,winter snow,10
+ID,soil,low,non-forest,sage brush,43,1425,686,-0.1,winter snow,4
+ID,soil,high,non-forest,sage brush,43,2111,686,-0.1,winter snow,4
+ID,surface,low,non-forest,sage brush,43,1425,686,1,winter snow,4
+ID,surface,high,non-forest,sage brush,43,2111,686,1,winter snow,4
+MD,canopy,low,evergreen,tropical broadleaf,-21,550,950,20,no winter snow,2
+MD,soil,low,evergreen,tropical broadleaf,-21,550,950,-0.07,no winter snow,2
+MD,surface,low,evergreen,tropical broadleaf,-21,550,950,1,no winter snow,2
+NC,canopy,low,deciduous,mixed deciduous,36,500,1200,20,no winter snow,1
+NC,soil,low,deciduous,mixed deciduous,36,500,1200,-0.07,no winter snow,1
+NC,surface,low,deciduous,mixed deciduous,36,500,1200,1,no winter snow,1
+NH,soil,low,deciduous,mixed northern hardwood,44,375,395,-0.05,winter snow,4
+NH,soil,low,deciduous,mixed northern hardwood,44,375,395,-0.05,winter snow,4
+NM,surface,low,coniferous,conifers,36,2500,530,NA,no winter snow,7
+OR,soil,low,coniferous,conifers,44,473,957,-0.1,winter snow,19
+OR,soil,low,coniferous,conifers,44,473,957,-0.1,winter snow,19
+OR,surface,low,coniferous,conifers,44,473,957,2.85,winter snow,19
+OR,surface,low,coniferous,conifers,44,473,957,2.85,winter snow,19
+PH,canopy,low,evergreen,tropical broadleaf,14,900,800,20,no winter snow,1
+PH,surface,low,evergreen,tropical broadleaf,14,900,800,1,no winter snow,1
+PT,surface,low,non-forest,scrub,40,1100,800,1.3,no winter snow,2
+SE,soil,low,non-forest,"Empetrum hermaphroditum, Vaccinium myrtillus, Deschampsia flexuosa",68,500,400,-0.02,winter snow,2
+SE,soil,low,non-forest,"Empetrum hermaphroditum, Vaccinium myrtillus, Deschampsia flexuosa",68,500,400,-0.02,winter snow,2
+TN,soil,low,deciduous,"mixed deciduous, hardwoods",35,683.1,587.9999999999999,-0.05,no winter snow,5
+TN,surface,low,deciduous,"mixed deciduous, hardwoods",35,683.1,587.9999999999999,1,no winter snow,5

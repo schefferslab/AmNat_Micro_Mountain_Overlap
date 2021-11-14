@@ -1,0 +1,40 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: Gamma  ( log )
+Formula: overlap ~ latitude + (1 | site)
+   Data: mountains
+
+     AIC      BIC   logLik deviance df.resid 
+  -123.0   -113.8     65.5   -131.0       70 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.2930 -0.3713  0.0497  0.4302  2.6647 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 0.14735  0.3839  
+ Residual             0.06365  0.2523  
+Number of obs: 74, groups:  site, 9
+
+Fixed effects:
+            Estimate Std. Error t value Pr(>|z|)   
+(Intercept)  -2.1192     0.6568  -3.226  0.00125 **
+latitude      3.3071     2.3977   1.379  0.16781   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+         (Intr)
+latitude -0.844
+[1] "Parameter Confidence Intervals using confint()"
+                2.5 %     97.5 %
+.sig01       0.000000  2.4409612
+.sigma       1.328181  2.4138138
+(Intercept) -4.434711 -0.4236001
+latitude    -3.738591 10.0055861
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 2 x 5
+  param       coeff st_error CI_95_low CI_95_high
+  <chr>       <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept) -2.12    0.657     -3.41     -0.832
+2 latitude     3.31    2.40      -1.39      8.01 

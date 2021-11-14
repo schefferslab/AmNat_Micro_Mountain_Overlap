@@ -1,0 +1,40 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: overlap ~ elevation_change + n_years + (1 | site)
+   Data: mountains
+
+REML criterion at convergence: 3223.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.99768 -0.54417 -0.01984  0.50075  2.94128 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 28.86    5.373   
+ Residual             28.79    5.365   
+Number of obs: 508, groups:  site, 33
+
+Fixed effects:
+                 Estimate Std. Error t value
+(Intercept)        11.542      1.753   6.585
+elevation_change  -13.399      4.938  -2.714
+n_years            21.362      4.245   5.032
+
+Correlation of Fixed Effects:
+            (Intr) elvtn_
+elevtn_chng -0.778       
+n_years     -0.387  0.120
+[1] "Parameter Confidence Intervals using confint()"
+                      2.5 %    97.5 %
+.sig01             3.987446  6.748458
+.sigma             5.041454  5.725336
+(Intercept)        8.167825 14.915884
+elevation_change -22.902996 -3.893602
+n_years           13.191436 29.535907
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 3 x 5
+  param            coeff st_error CI_95_low CI_95_high
+  <chr>            <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)       11.5     1.75      8.11      15.0 
+2 elevation_change -13.4     4.94    -23.1       -3.72
+3 n_years           21.4     4.25     13.0       29.7 

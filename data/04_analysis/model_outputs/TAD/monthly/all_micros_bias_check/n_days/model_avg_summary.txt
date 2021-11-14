@@ -1,0 +1,52 @@
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+lme4::lmer(formula = overlap ~ <3 unique rhs>, data = mountains, na.action = 
+     na.fail)
+
+Component models: 
+       df   logLik    AICc delta weight
+123456  9 -1564.85 3148.07  0.00   0.60
+12346   8 -1566.77 3149.82  1.75   0.25
+12456   8 -1567.29 3150.87  2.80   0.15
+
+Term codes: 
+elevation_change           height         latitude           n_days        snowdepth 
+               1                2                3                4                5 
+     veg_foliage 
+               6 
+
+Model-averaged coefficients:  
+(full average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)        11.113      3.604       3.613   3.076   0.0021 ** 
+elevation_change  -11.565      5.514       5.527   2.092   0.0364 *  
+height              8.678      1.123       1.126   7.710   <2e-16 ***
+latitude           -0.231      4.256       4.266   0.054   0.9568    
+n_days              9.896      4.203       4.213   2.349   0.0188 *  
+snowdepth          -1.229      1.533       1.536   0.800   0.4236    
+veg_foliage       -11.782      1.842       1.846   6.382   <2e-16 ***
+ 
+(conditional average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       11.1126     3.6044      3.6132   3.076   0.0021 ** 
+elevation_change -11.5654     5.5137      5.5271   2.092   0.0364 *  
+height             8.6783     1.1229      1.1256   7.710   <2e-16 ***
+latitude          -0.2711     4.6099      4.6211   0.059   0.9532    
+n_days             9.8961     4.2031      4.2133   2.349   0.0188 *  
+snowdepth         -1.6400     1.5691      1.5729   1.043   0.2971    
+veg_foliage      -11.7817     1.8416      1.8460   6.382   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Joining, by = "rowname"
+[1] "Parameter Confidence Intervals"
+                      2.5 %     97.5 %
+(Intercept)        4.030854 18.1943179
+elevation_change -22.398393 -0.7324838
+height             6.472175 10.8844546
+latitude          -9.328345  8.7860755
+n_days             1.638152 18.1540226
+snowdepth         -4.722865  1.4428524
+veg_foliage      -15.399916 -8.1635428

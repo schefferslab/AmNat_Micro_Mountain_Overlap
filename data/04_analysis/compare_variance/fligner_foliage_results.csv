@@ -1,0 +1,15 @@
+site,macro,micro,elevation,chi_squared,p_value,method
+NC,deciduous,surface,low,74.95593842151676,4.813372051562122e-18,minmax by foliage
+TN,deciduous,surface,low,43.194679680697604,4.9555247586782065e-11,minmax by foliage
+CH_decid,deciduous,surface,low,24.92864013853093,5.949201705452052e-7,minmax by foliage
+NC,deciduous,soil,low,84.31012248238204,4.2294418363013884e-20,minmax by foliage
+NH,deciduous,soil,low,35.92032260222393,2.055535029673847e-9,minmax by foliage
+TN,deciduous,soil,low,124.7089021058927,5.893618923114607e-29,minmax by foliage
+NC,deciduous,canopy,low,14.699472352485179,1.26081735276722e-4,minmax by foliage
+NC,deciduous,surface,high,84.4701711271732,3.900554368892385e-20,minmax by foliage
+TN,deciduous,surface,high,91.27325567998145,1.2514060606233467e-21,minmax by foliage
+CH_decid,deciduous,surface,high,30.3568225352948,3.594405079213595e-8,minmax by foliage
+NC,deciduous,soil,high,169.72052562858926,8.515433562846106e-39,minmax by foliage
+NH,deciduous,soil,high,17.094049728127445,3.557358437390488e-5,minmax by foliage
+TN,deciduous,soil,high,112.45524307108614,2.840042388674446e-26,minmax by foliage
+NC,deciduous,canopy,high,38.73540374570991,4.853258790290751e-10,minmax by foliage

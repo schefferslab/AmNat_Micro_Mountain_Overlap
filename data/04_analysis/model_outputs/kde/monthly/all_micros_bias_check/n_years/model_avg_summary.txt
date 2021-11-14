@@ -1,0 +1,52 @@
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+lme4::lmer(formula = overlap ~ <3 unique rhs>, data = mountains, na.action = 
+     na.fail)
+
+Component models: 
+       df logLik    AICc delta weight
+12456   8 270.47 -524.66  0.00   0.52
+1256    7 268.97 -523.71  0.94   0.33
+123456  9 270.27 -522.19  2.47   0.15
+
+Term codes: 
+elevation_change           height         latitude          n_years        snowdepth 
+               1                2                3                4                5 
+     veg_foliage 
+               6 
+
+Model-averaged coefficients:  
+(full average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       0.63739    0.05400     0.05410  11.782  < 2e-16 ***
+elevation_change -0.66531    0.11211     0.11237   5.921  < 2e-16 ***
+height            0.21114    0.02894     0.02901   7.277  < 2e-16 ***
+n_years           0.16984    0.14403     0.14414   1.178    0.239    
+snowdepth        -0.21630    0.04056     0.04066   5.320  1.0e-07 ***
+veg_foliage      -0.19798    0.04402     0.04412   4.487  7.2e-06 ***
+latitude         -0.02259    0.06459     0.06464   0.349    0.727    
+ 
+(conditional average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       0.63739    0.05400     0.05410  11.782  < 2e-16 ***
+elevation_change -0.66531    0.11211     0.11237   5.921  < 2e-16 ***
+height            0.21114    0.02894     0.02901   7.277  < 2e-16 ***
+n_years           0.25198    0.10041     0.10063   2.504   0.0123 *  
+snowdepth        -0.21630    0.04056     0.04066   5.320 1.00e-07 ***
+veg_foliage      -0.19798    0.04402     0.04412   4.487 7.22e-06 ***
+latitude         -0.14860    0.09338     0.09361   1.588   0.1124    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Joining, by = "rowname"
+[1] "Parameter Confidence Intervals"
+                       2.5 %      97.5 %
+(Intercept)       0.53136184  0.74342222
+elevation_change -0.88555959 -0.44506844
+height            0.15426933  0.26800343
+n_years           0.05475595  0.44920105
+snowdepth        -0.29598804 -0.13661743
+veg_foliage      -0.28446692 -0.11150228
+latitude         -0.33207133  0.03486156

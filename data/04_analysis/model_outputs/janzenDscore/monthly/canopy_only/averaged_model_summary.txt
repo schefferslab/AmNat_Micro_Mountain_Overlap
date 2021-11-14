@@ -1,0 +1,69 @@
+[1] "Model formula: "
+overlap ~ elevation_change + latitude + height + foliage_cover + 
+    veg_structure + foliage_cover:veg_structure + snowdepth + 
+    (1 | site)
+<environment: 0x000000000779a2c0>
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+glmer(formula = overlap ~ <16 unique rhs>, data = mountains, family = gaussian(link 
+     = "log"), na.action = na.fail)
+
+Component models: 
+       df logLik    AICc delta weight
+12      5  59.20 -107.53  0.00   0.17
+1246    7  61.31 -106.92  0.60   0.12
+12467   7  61.31 -106.92  0.60   0.12
+124     6  59.91 -106.57  0.95   0.10
+123     6  59.28 -105.30  2.23   0.05
+1234    7  60.45 -105.21  2.32   0.05
+125     6  59.21 -105.17  2.35   0.05
+126     6  59.21 -105.17  2.36   0.05
+1267    6  59.21 -105.17  2.36   0.05
+12456   8  61.32 -104.43  3.10   0.04
+124567  8  61.32 -104.43  3.10   0.04
+12346   8  61.31 -104.41  3.12   0.04
+123467  8  61.31 -104.41  3.12   0.04
+1245    7  59.94 -104.18  3.35   0.03
+1236    7  59.66 -103.62  3.91   0.02
+12367   7  59.66 -103.62  3.91   0.02
+
+Term codes: 
+           elevation_change               foliage_cover                      height 
+                          1                           2                           3 
+                   latitude                   snowdepth               veg_structure 
+                          4                           5                           6 
+foliage_cover:veg_structure 
+                          7 
+
+Model-averaged coefficients:  
+(full average) 
+                  Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       1.962878   0.053324    0.053854  36.448  < 2e-16 ***
+elevation_change -0.317258   0.055187    0.056062   5.659  < 2e-16 ***
+foliage_cover    -0.041041   0.015151    0.015419   2.662  0.00778 ** 
+latitude          0.051894   0.056695    0.057020   0.910  0.36277    
+veg_structure     0.038469   0.056525    0.056979   0.675  0.49958    
+height            0.001095   0.035008    0.035401   0.031  0.97533    
+snowdepth        -0.001180   0.018725    0.019063   0.062  0.95066    
+ 
+(conditional average) 
+                  Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       1.962878   0.053324    0.053854  36.448  < 2e-16 ***
+elevation_change -0.317258   0.055187    0.056062   5.659  < 2e-16 ***
+foliage_cover    -0.041041   0.015151    0.015419   2.662  0.00778 ** 
+latitude          0.090045   0.046282    0.046970   1.917  0.05523 .  
+veg_structure     0.071394   0.059826    0.060619   1.178  0.23889    
+height            0.004867   0.073692    0.074522   0.065  0.94792    
+snowdepth        -0.007661   0.047197    0.048066   0.159  0.87336    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "Sum of weights: "
+                     elevation_change foliage_cover latitude veg_structure
+Sum of weights:      1.00             1.00          0.58     0.54         
+N containing models:   16               16             9       10         
+                     foliage_cover:veg_structure height snowdepth
+Sum of weights:      0.27                        0.22   0.15     
+N containing models:    5                           6      4     

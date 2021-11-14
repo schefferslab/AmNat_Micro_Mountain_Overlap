@@ -1,0 +1,50 @@
+macro,site,foliage,micro,overlap,elevation_change,overlap_elevCorr
+alpine meadow,CO,leaf-off,soil,0.44397517981940976,1802,0.36510925148646745
+alpine meadow,CO,leaf-off,surface,0.35060567844267093,1802,0.2717397501097302
+deciduous,CH_decid,leaf-off,surface,0.8279961316257272,717,0.3445415031077948
+deciduous,CH_decid,leaf-on,surface,0.6575711938223849,717,0.17411656530445258
+deciduous,NC,leaf-off,canopy,0.6335468769848733,1200,0.3301994762912274
+deciduous,NC,leaf-off,soil,0.5357183529929567,1200,0.23237095229931076
+deciduous,NC,leaf-off,surface,0.6167037006342101,1200,0.3133562999405642
+deciduous,NC,leaf-on,canopy,0,1200,-0.3033474006936459
+deciduous,NC,leaf-on,soil,0.0011334600548717083,1200,-0.3022139406387742
+deciduous,NC,leaf-on,surface,0,1200,-0.3033474006936459
+deciduous,NH_forest,leaf-off,soil,0.650692132167965,395,0.04716601843384163
+deciduous,NH_forest,leaf-on,soil,0.5012723658725833,395,-0.10225374786154003
+deciduous,TN,leaf-off,soil,0.9265151385147405,704.7,0.4384739284186742
+deciduous,TN,leaf-off,surface,0.7645078263462753,704.7,0.276466616250209
+deciduous,TN,leaf-on,soil,0.713337614536341,704.7,0.2252964044402747
+deciduous,TN,leaf-on,surface,0.5011411747667833,704.7,0.01309996467071698
+Dense coniferous,CH_conif,leaf-on,surface,0.578568080603718,1393,0.34718899247754065
+Dense coniferous,OR,leaf-on,soil,0.5144821388145695,957,0.12052178499193475
+Dense coniferous,OR,leaf-on,surface,0.6455956525048391,957,0.25163529868220436
+developed,CA,leaf-off,surface,0.6304524436353832,698.9,0.14024845523418047
+hot desert,AZ,leaf-off,soil,0.5598928109960457,1005,0.1838313121124705
+hot desert,AZ,leaf-off,surface,0.5363593156255054,1005,0.1602978167419302
+meadow near forest,CH_open,leaf-off,surface,0.5497879245974974,1432,0.3329516561093058
+meadow near forest,NH_nonforest,leaf-off,surface,0.8503766479001413,554.5,0.3063269375572679
+Ponderosa pine,AZ_cata,leaf-on,soil,0.7504404063410067,428,0.15921975537748684
+Ponderosa pine,NM_soil,leaf-on,soil,0.7119928366628346,348.3000000000002,0.0910526286442514
+Ponderosa pine,NM_surface,leaf-on,surface,0.8485380192258404,530,0.29535243500782193
+scrub shrub,ID,leaf-off,soil,0.6202902346811594,686,0.12527592901508444
+scrub shrub,ID,leaf-off,surface,0.7317433224627794,686,0.23672901679670444
+scrub shrub,PT,leaf-off,surface,0.6139379999909156,800,0.16143347480510695
+scrub shrub,SE,leaf-off,soil,0.7950927360484189,400,0.1934310863704476
+tropical broadleaf,AU,leaf-on,canopy,0.03895426200250333,900,-0.3762609820602646
+tropical broadleaf,AU,leaf-on,soil,0.296251434489032,900,-0.11896380957373591
+tropical broadleaf,AU,leaf-on,surface,0.294602012606165,900,-0.12061323145660295
+tropical broadleaf,CO_OldSecondary_1,leaf-on,canopy,0,1042,-0.36226446486805014
+tropical broadleaf,CO_OldSecondary_1,leaf-on,surface,0,1042,-0.36226446486805014
+tropical broadleaf,CO_PrimaryForest_1,leaf-on,canopy,0,1039,-0.3633831433017414
+tropical broadleaf,CO_PrimaryForest_1,leaf-on,surface,0,1039,-0.3633831433017414
+tropical broadleaf,CO_PrimaryForest_2,leaf-on,soil,0.28027454987843947,1055,-0.07714230844361541
+tropical broadleaf,CO_YoungSecondary_1,leaf-on,canopy,0.0064928535131429915,832,-0.43407910171329256
+tropical broadleaf,CO_YoungSecondary_1,leaf-on,surface,0,832,-0.44057195522643555
+tropical broadleaf,CR_basham,leaf-on,canopy,0,1986,-0.010253651066546222
+tropical broadleaf,CR_basham,leaf-on,soil,0,1986,-0.010253651066546222
+tropical broadleaf,CR_basham,leaf-on,surface,0,1986,-0.010253651066546222
+tropical broadleaf,MD,leaf-on,canopy,0,950,-0.39657060350124756
+tropical broadleaf,MD,leaf-on,soil,0,950,-0.39657060350124756
+tropical broadleaf,MD,leaf-on,surface,0.018137598099132474,950,-0.3784330054021151
+tropical broadleaf,PH,leaf-on,canopy,0,800,-0.45250452518580864
+tropical broadleaf,PH,leaf-on,surface,0,800,-0.45250452518580864

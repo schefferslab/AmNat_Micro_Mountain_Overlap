@@ -1,0 +1,54 @@
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+glmer(formula = overlap ~ <4 unique rhs>, data = mountains, family = Gamma(link = 
+     "log"), na.action = na.fail)
+
+Component models: 
+       df logLik    AICc delta weight
+1256    7  87.65 -161.09  0.00   0.44
+12456   8  88.24 -160.19  0.89   0.28
+12356   8  87.74 -159.18  1.90   0.17
+123456  9  88.25 -158.14  2.95   0.10
+
+Term codes: 
+elevation_change           height         latitude           n_days        snowdepth 
+               1                2                3                4                5 
+     veg_foliage 
+               6 
+
+Model-averaged coefficients:  
+(full average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)      -0.31704    0.28596     0.28651   1.107  0.26848    
+elevation_change -2.60611    0.46785     0.46895   5.557  < 2e-16 ***
+height            0.71944    0.16515     0.16555   4.346 1.39e-05 ***
+snowdepth        -0.69839    0.22773     0.22828   3.059  0.00222 ** 
+veg_foliage      -0.60234    0.21127     0.21177   2.844  0.00445 ** 
+n_days            0.13650    0.26717     0.26755   0.510  0.60992    
+latitude          0.02002    0.20685     0.20731   0.097  0.92307    
+ 
+(conditional average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)      -0.31704    0.28596     0.28651   1.107  0.26848    
+elevation_change -2.60611    0.46785     0.46895   5.557  < 2e-16 ***
+height            0.71944    0.16515     0.16555   4.346 1.39e-05 ***
+snowdepth        -0.69839    0.22773     0.22828   3.059  0.00222 ** 
+veg_foliage      -0.60234    0.21127     0.21177   2.844  0.00445 ** 
+n_days            0.35445    0.32879     0.32958   1.075  0.28217    
+latitude          0.07337    0.39100     0.39189   0.187  0.85150    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Joining, by = "rowname"
+[1] "Parameter Confidence Intervals"
+                      2.5 %     97.5 %
+(Intercept)      -0.8786023  0.2445128
+elevation_change -3.5252355 -1.6869816
+height            0.3949583  1.0439183
+snowdepth        -1.1458161 -0.2509687
+veg_foliage      -1.0174057 -0.1872643
+n_days           -0.2915231  1.0004259
+latitude         -0.6947307  0.8414612

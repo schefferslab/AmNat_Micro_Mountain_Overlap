@@ -1,0 +1,7 @@
+"","site","micro","year","chi_squared","df","p_value","method"
+"1","sonoran","soil",2009,104.156590202913,1,1.86941836450397e-24,"overlap by foliage"
+"2","sonoran","surface",2009,32.6178850629726,1,1.12177718090777e-08,"overlap by foliage"
+"3","sonoran","soil",2010,145.308835040577,1,1.83841021095355e-33,"overlap by foliage"
+"4","sonoran","surface",2010,77.1962385269442,1,1.54788057261558e-18,"overlap by foliage"
+"5","sonoran","soil",2011,15.1326413354814,1,0.000100215483066262,"overlap by foliage"
+"6","sonoran","surface",2011,35.1341919093218,1,3.0774950658141e-09,"overlap by foliage"

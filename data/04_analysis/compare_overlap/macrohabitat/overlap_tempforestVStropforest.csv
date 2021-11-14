@@ -1,0 +1,4 @@
+comparison,micro,chi_squared,df,p_value,method
+tempforestVStropforest,soil,128.82357078635434,1,7.412270205649088e-30,overlap by macro
+tempforestVStropforest,surface,564.3332221657083,1,9.594092265403221e-125,overlap by macro
+tempforestVStropforest,canopy,8.563192908972042,1,0.003430272885194985,overlap by macro

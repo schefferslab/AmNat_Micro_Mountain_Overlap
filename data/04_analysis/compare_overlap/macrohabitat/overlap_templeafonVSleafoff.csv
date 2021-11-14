@@ -1,0 +1,4 @@
+comparison,micro,chi_squared,df,p_value,method
+leafonVSleafoff,soil,2.238555945136696,1,0.13460663716071322,overlap by macro
+leafonVSleafoff,surface,43.02261111933037,1,5.411085571068607e-11,overlap by macro
+leafonVSleafoff,canopy,25.36935147951067,1,4.7337961647420806e-7,overlap by macro

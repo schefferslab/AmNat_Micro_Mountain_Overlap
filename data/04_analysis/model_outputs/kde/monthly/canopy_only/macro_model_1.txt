@@ -1,0 +1,40 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: Gamma  ( log )
+Formula: overlap ~ elevation_change + (1 | site)
+   Data: mountains
+
+     AIC      BIC   logLik deviance df.resid 
+  -132.7   -123.5     70.3   -140.7       70 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-3.14081 -0.47597 -0.07534  0.37014  2.01399 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ site     (Intercept) 0.04641  0.2154  
+ Residual             0.06430  0.2536  
+Number of obs: 74, groups:  site, 9
+
+Fixed effects:
+                 Estimate Std. Error t value Pr(>|z|)    
+(Intercept)        0.6603     0.3848   1.716   0.0862 .  
+elevation_change  -6.1538     1.0932  -5.629 1.81e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+elevtn_chng -0.913
+[1] "Parameter Confidence Intervals using confint()"
+                      2.5 %   97.5 %
+.sig01             0.000000 1.389527
+.sigma             1.364555 2.605969
+(Intercept)       -2.049366 3.057828
+elevation_change -15.491390 2.843438
+[1] "Parameter Confidence Intervals calculated by hand"
+# A tibble: 2 x 5
+  param             coeff st_error CI_95_low CI_95_high
+  <chr>             <dbl>    <dbl>     <dbl>      <dbl>
+1 (Intercept)       0.660    0.385   -0.0940       1.41
+2 elevation_change -6.15     1.09    -8.30        -4.01

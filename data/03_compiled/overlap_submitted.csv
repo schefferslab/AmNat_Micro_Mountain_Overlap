@@ -1,0 +1,528 @@
+site,micro,month,elevation_change,macro,foliage,snowdepth,latitude,veg_structure,foliage_cover,height,snow_presence,janzenDscore,TAD,kde
+AK_ameriflux,soil,1,421,alpine meadow,leaf-off,50.21660006,68.88103607,0,0,-0.09,snow,2.747699033,11.794,0
+AK_ameriflux,soil,2,421,alpine meadow,leaf-off,59.92652509,68.88525,0,0,-0.09,snow,1.894312724,12.536,0.058035543
+AK_ameriflux,soil,3,421,alpine meadow,leaf-off,68.04053867,68.88525,0,0,-0.09,snow,2.598466649,7.745,0.00682253
+AK_ameriflux,soil,4,421,alpine meadow,leaf-off,65.13677276,68.88525,0,0,-0.09,snow,3.067263301,7.814,0
+AK_ameriflux,soil,5,421,alpine meadow,leaf-off,46.66852184,68.88525,0,0,-0.09,snow,1.232168392,10.761,0.510223155
+AK_ameriflux,soil,6,421,alpine meadow,leaf-off,2.229419572,68.88525,0,0,-0.09,snow,0.936992785,4.955,0.656287903
+AK_ameriflux,soil,7,421,alpine meadow,leaf-off,0,68.88525,0,0,-0.09,no snow,1.043992438,5.452,0.595267933
+AK_ameriflux,soil,8,421,alpine meadow,leaf-off,0.2251713,68.823558,0,0,-0.09,no snow,0.925284021,3.677,0.568937872
+AK_nabesna,surface,1,394.7,alpine meadow,leaf-off,10.58443856,63.0217,115.8666543,0,3,snow,1.197059785,42.61904762,0.632451403
+AK_nabesna,surface,2,394.7,alpine meadow,leaf-off,12.00326886,63.0217,115.8666543,0,3,snow,1.186619791,41.20634921,0.641292927
+AK_nabesna,surface,3,394.7,alpine meadow,leaf-off,11.43936284,63.0217,115.8666543,0,3,snow,1.090503528,39.03594771,0.707567938
+AK_nabesna,surface,4,394.7,alpine meadow,leaf-off,6.96755641,63.0217,115.8666543,0,3,snow,0.998653449,33.54575163,0.701411357
+AK_nabesna,surface,5,394.7,alpine meadow,leaf-off,0.383693342,63.0217,115.8666543,0,3,no snow,0.96073482,26.61458333,0.664626176
+AK_nabesna,surface,6,394.7,alpine meadow,leaf-off,0.002256675,63.0217,115.8666543,0,3,no snow,0.956532678,27.07407407,0.654799974
+AK_nabesna,surface,7,394.7,alpine meadow,leaf-off,0,63.0217,115.8666543,0,3,no snow,0.927565884,24.04513889,0.634103091
+AK_nabesna,surface,8,394.7,alpine meadow,leaf-off,0.002782923,63.0217,115.8666543,0,3,no snow,0.980669383,27.46527778,0.666431854
+AK_nabesna,surface,9,394.7,alpine meadow,leaf-off,0.161014157,63.0217,115.8666543,0,3,no snow,0.946244799,25.97643098,0.722535427
+AK_nabesna,surface,10,394.7,alpine meadow,leaf-off,1.686648442,63.0217,115.8666543,0,3,no snow,1.045072737,32.20634921,0.748631365
+AK_nabesna,surface,11,394.7,alpine meadow,leaf-off,5.097920354,63.0217,115.8666543,0,3,snow,1.143569817,35.70261438,0.683084999
+AK_nabesna,surface,12,394.7,alpine meadow,leaf-off,8.110097322,63.0217,115.8666543,0,3,snow,1.227590152,40.08417508,0.615710096
+AU,canopy,3,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,0.256494588,2.5,0.370941864
+AU,canopy,4,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,0.707106781,9,0.421410042
+AU,soil,1,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.789038481,-2.300666667,0
+AU,soil,2,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-1.111685022,-2.692416667,0
+AU,soil,3,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.3691018,-1.392,0.001039632
+AU,soil,4,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.289442429,-1.079,0.003542711
+AU,soil,5,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.322225039,-1.112333333,0.002357496
+AU,soil,6,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,0.042240378,0.208666667,0.045130707
+AU,soil,7,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.259176155,-1.137,0.008000038
+AU,soil,8,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.067399329,-0.409166667,0.033955018
+AU,soil,9,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.458167337,-1.466666667,0.001653648
+AU,soil,10,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.401055515,-1.308,0.003200449
+AU,soil,11,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.156282539,-0.75075,0.013946949
+AU,soil,12,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,-0.07,no snow,-0.868789572,-2.477666667,0
+AU,surface,1,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.304523321,2.950833333,0.32770764
+AU,surface,2,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.339675016,3.26,0.38977125
+AU,surface,3,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.447105558,4.21,0.387594758
+AU,surface,4,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.461158618,4.5525,0.366537646
+AU,surface,5,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.492235325,5.375833333,0.37740809
+AU,surface,6,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.561457446,6.786666667,0.385889323
+AU,surface,7,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.569640676,7.213333333,0.331138757
+AU,surface,8,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.645975253,8.958333333,0.38868693
+AU,surface,9,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.610387718,8.036666667,0.324100813
+AU,surface,10,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.630868889,8.996666667,0.333130587
+AU,surface,11,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.58304179,8.54,0.380403339
+AU,surface,12,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,1,no snow,0.488746685,5.755,0.280615367
+AZ,soil,1,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,-0.1,no snow,0.498331146,6.143333333,0.189538207
+AZ,soil,2,1005,hot desert,leaf-off,0,33.62421795,46.75417701,0,-0.1,no snow,0.4389598,5.69,0.205599758
+AZ,soil,3,1005,hot desert,leaf-off,0,33.630605,35.93145085,0,-0.1,no snow,0.413386667,6.933333333,0.213361854
+AZ,soil,4,1005,hot desert,leaf-off,0,33.62419419,46.79444762,0,-0.1,no snow,0.514398308,9.686666667,0.271112476
+AZ,soil,5,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,-0.1,no snow,0.480926966,8.346666667,0.296645288
+AZ,soil,6,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,-0.1,no snow,0.584843646,10.53,0.341990943
+AZ,soil,7,1005,hot desert,leaf-off,0,33.62433989,46.54756132,0,-0.1,no snow,0.502760224,7.406666667,0.310459061
+AZ,soil,8,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,-0.1,no snow,0.577273978,9.04,0.354116736
+AZ,soil,9,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,-0.1,no snow,0.602674583,9.843333333,0.349853916
+AZ,soil,10,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,-0.1,no snow,0.662557833,12.30666667,0.357969356
+AZ,soil,11,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,-0.1,no snow,0.553097503,9.333333333,0.282877088
+AZ,soil,12,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,-0.1,no snow,0.503844454,6.203333333,0.174114981
+AZ,surface,1,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,2,no snow,0.668327139,15.28326667,0.445989308
+AZ,surface,2,1005,hot desert,leaf-off,0,33.62421795,46.75417701,0,2,no snow,0.620398676,13.13003333,0.383189848
+AZ,surface,3,1005,hot desert,leaf-off,0,33.630605,35.93145085,0,2,no snow,0.661502772,15.79993333,0.386769832
+AZ,surface,4,1005,hot desert,leaf-off,0,33.62419419,46.79444762,0,2,no snow,0.658281775,18.53523333,0.436954447
+AZ,surface,5,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,2,no snow,0.630540955,15.03793333,0.423001166
+AZ,surface,6,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,2,no snow,0.628009666,16.01666667,0.446328266
+AZ,surface,7,1005,hot desert,leaf-off,0,33.62433989,46.54756132,0,2,no snow,0.683668362,13.81643333,0.415596504
+AZ,surface,8,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,2,no snow,0.690099905,14.59083333,0.422251139
+AZ,surface,9,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,2,no snow,0.683024245,15.06483333,0.423602172
+AZ,surface,10,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,2,no snow,0.638521872,14.95116667,0.476531334
+AZ,surface,11,1005,hot desert,leaf-off,0,33.62436824,46.49952463,0,2,no snow,0.683428771,16.1597,0.440990607
+AZ,surface,12,1005,hot desert,leaf-off,0,33.62451161,46.2565804,0,2,no snow,0.730708328,15.21103333,0.374222373
+AZ_cata,soil,1,428,Ponderosa pine,leaf-on,0.5,32.432465,648.457626,1,-0.1,no snow,1.42024773,7.71,0.269421463
+AZ_cata,soil,2,428,Ponderosa pine,leaf-on,1.131034483,32.432465,648.457626,1,-0.1,no snow,1.238427006,7.675,0.538611727
+AZ_cata,soil,3,428,Ponderosa pine,leaf-on,0.483870968,32.432465,648.457626,1,-0.1,no snow,1.059481838,12.15,0.783246258
+AZ_cata,soil,4,428,Ponderosa pine,leaf-on,0.5,32.432465,648.457626,1,-0.1,no snow,0.991647987,13.24833333,0.689224522
+AZ_cata,soil,5,428,Ponderosa pine,leaf-on,0.225806452,32.432465,648.457626,1,-0.1,no snow,0.955903126,15.815,0.676925755
+AZ_cata,soil,6,428,Ponderosa pine,leaf-on,0,32.432465,648.457626,1,-0.1,no snow,0.944035875,13.98,0.660075195
+AZ_cata,soil,7,428,Ponderosa pine,leaf-on,0,32.432465,648.457626,1,-0.1,no snow,1.025140063,12.51666667,0.648699098
+AZ_cata,soil,8,428,Ponderosa pine,leaf-on,0,32.432465,648.457626,1,-0.1,no snow,1.094094879,9.8,0.730199638
+AZ_cata,soil,9,428,Ponderosa pine,leaf-on,0,32.432465,648.457626,1,-0.1,no snow,1.108832739,12.05166667,0.749732382
+AZ_cata,soil,10,428,Ponderosa pine,leaf-on,0,32.432465,648.457626,1,-0.1,no snow,1.078462684,9.75,0.485451885
+AZ_cata,soil,11,428,Ponderosa pine,leaf-on,0.906666667,32.432465,648.457626,1,-0.1,no snow,1.548564448,14.43666667,0.309527395
+AZ_cata,soil,12,428,Ponderosa pine,leaf-on,3.64516129,32.432465,648.457626,1,-0.1,snow,1.378774293,12.6275,0.317446887
+CA,surface,1,698.9,developed,leaf-off,0.12983871,37.0689,0,0,1,no snow,0.834101804,21.20833333,0.539969906
+CA,surface,2,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.731164223,19.31944444,0.544638063
+CA,surface,3,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.842721849,24.98611111,0.606112712
+CA,surface,4,698.9,developed,leaf-off,0.013888889,37.0689,0,0,1,no snow,0.816608017,27.38888889,0.640788587
+CA,surface,5,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.823127831,25.30555556,0.670591304
+CA,surface,6,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.82917111,28.16666667,0.706306595
+CA,surface,7,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.871859055,25.98611111,0.694369742
+CA,surface,8,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.81692048,24.41666667,0.656473952
+CA,surface,9,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.807873082,23.79166667,0.594514677
+CA,surface,10,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.75313367,24.56944444,0.576925304
+CA,surface,11,698.9,developed,leaf-off,0,37.0689,0,0,1,no snow,0.760118922,23.90277778,0.544850423
+CA,surface,12,698.9,developed,leaf-off,0.01344086,37.0689,0,0,1,no snow,0.794699681,21.38888889,0.470994234
+CH_conif,surface,1,1393,Dense coniferous,leaf-on,36.99356172,46.967905,1267.325389,1,2,snow,0.609134328,13.73888889,0.315025299
+CH_conif,surface,2,1393,Dense coniferous,leaf-on,49.88347056,46.967905,1267.325389,1,2,snow,0.67818642,16.71111111,0.369935325
+CH_conif,surface,3,1393,Dense coniferous,leaf-on,55.4924262,46.967905,1267.325389,1,2,snow,0.634506964,16.44944444,0.432318765
+CH_conif,surface,4,1393,Dense coniferous,leaf-on,60.23018835,46.967905,1267.325389,1,2,snow,0.646319368,15.97210526,0.405365319
+CH_conif,surface,5,1393,Dense coniferous,leaf-on,14.30154435,46.967905,1267.325389,1,2,snow,0.712844649,17.23555556,0.391413819
+CH_conif,surface,6,1393,Dense coniferous,leaf-on,0.433342071,46.967905,1267.325389,1,2,no snow,0.74562721,18.51894737,0.433030499
+CH_conif,surface,7,1393,Dense coniferous,leaf-on,0.191406559,46.967905,1267.325389,1,2,no snow,0.707773513,15.8705,0.426621096
+CH_conif,surface,8,1393,Dense coniferous,leaf-on,0,46.967905,1267.325389,1,2,no snow,0.733472684,16.72210526,0.42597297
+CH_conif,surface,9,1393,Dense coniferous,leaf-on,0.418134901,46.967905,1267.325389,1,2,no snow,0.767426549,16.69526316,0.415981495
+CH_conif,surface,10,1393,Dense coniferous,leaf-on,3.088291732,46.967905,1267.325389,1,2,snow,0.794877404,17.98842105,0.389905605
+CH_conif,surface,11,1393,Dense coniferous,leaf-on,34.56021546,46.967905,1267.325389,1,2,snow,0.73456653,16.42526316,0.370195074
+CH_conif,surface,12,1393,Dense coniferous,leaf-on,54.98676497,46.967905,1267.325389,1,2,snow,0.588548217,12.52894737,0.322868104
+CH_cuona,surface,1,1500,scrub shrub,leaf-off,22.9173621,27.88,0,0,1.25,snow,1.14522943,8.622978516,0.211929589
+CH_cuona,surface,2,1500,scrub shrub,leaf-off,22.87504949,27.88,0,0,1.25,snow,2.209905323,7.979472656,0.064404896
+CH_cuona,surface,3,1500,scrub shrub,leaf-off,23.21652519,27.88,0,0,1.25,snow,1.974496259,8.580078125,0.043929035
+CH_cuona,surface,4,1500,scrub shrub,leaf-off,24.80785256,27.88,0,0,1.25,snow,0.485152178,1.973417969,0.01643543
+CH_cuona,surface,5,1500,scrub shrub,leaf-off,25.50165286,27.88,0,0,1.25,snow,-2.1058003,-5.062246094,9.15E-04
+CH_cuona,surface,6,1500,scrub shrub,leaf-off,24.37778798,27.88,0,0,1.25,snow,0.617532887,18.96197266,0.201407923
+CH_cuona,surface,7,1500,scrub shrub,leaf-off,24.28504914,27.88,0,0,1.25,snow,1.246068818,11.71180664,0.117473418
+CH_cuona,surface,8,1500,scrub shrub,leaf-off,23.2012702,27.87744186,0,0,1.25,snow,0.454568645,9.266484375,0.240720135
+CH_cuona,surface,9,1500,scrub shrub,leaf-off,23.88196949,27.88,0,0,1.25,snow,0.709396649,19.47677734,0.262798928
+CH_cuona,surface,10,1500,scrub shrub,leaf-off,24.27589046,27.88,0,0,1.25,snow,0.759015945,20.1202832,0.338078797
+CH_cuona,surface,11,1500,scrub shrub,leaf-off,24.3815903,27.88,0,0,1.25,snow,0.767636456,17.33175781,0.204519949
+CH_cuona,surface,12,1500,scrub shrub,leaf-off,26.18821137,27.88,0,0,1.25,snow,0.635251142,9.652587891,0.474737281
+CH_decid,surface,1,717,deciduous,leaf-off,5.474107077,46.763481,965.8923635,0.4,2,snow,0.952754243,16.81,0.697158633
+CH_decid,surface,2,717,deciduous,leaf-off,5.666676169,46.763481,965.8923635,0.4,2,snow,0.936175798,17.21684211,0.677504138
+CH_decid,surface,3,717,deciduous,leaf-off,4.912084335,46.763481,965.8923635,0.4,2,snow,0.826672762,16.64789474,0.664344179
+CH_decid,surface,4,717,deciduous,leaf-on,3.448939579,46.763481,965.8923635,0.8,2,snow,0.815803467,16.63473684,0.62577244
+CH_decid,surface,5,717,deciduous,leaf-on,1.108914883,46.763481,965.8923635,1,2,no snow,0.819622191,15.35947368,0.637483362
+CH_decid,surface,6,717,deciduous,leaf-on,0.210909079,46.763481,965.8923635,1,2,no snow,0.792604447,15.23526316,0.701483346
+CH_decid,surface,7,717,deciduous,leaf-on,5.73E-05,46.763481,965.8923635,0.748387097,2,no snow,0.778156188,12.31157895,0.670394104
+CH_decid,surface,8,717,deciduous,leaf-off,0,46.763481,965.8923635,0.4,2,no snow,0.863876055,12.62388889,0.62199814
+CH_decid,surface,9,717,deciduous,leaf-off,0.001904259,46.763481,965.8923635,0.4,2,no snow,0.787852949,12.64470588,0.603599749
+CH_decid,surface,10,717,deciduous,leaf-off,0.013424817,46.763481,965.8923635,0.4,2,no snow,0.84276118,13.75333333,0.64650584
+CH_decid,surface,11,717,deciduous,leaf-off,1.669238387,46.763481,965.8923635,0.4,2,no snow,0.94500006,15.475,0.708080965
+CH_decid,surface,12,717,deciduous,leaf-off,0,46.763481,965.8923635,0.4,2,no snow,0.983371171,16.64526316,0.664116699
+CH_open,surface,1,1432,meadow near forest,leaf-off,37.60001356,46.96423,282.051225,0,2,snow,0.686569462,17.37166667,0.358898603
+CH_open,surface,2,1432,meadow near forest,leaf-off,49.88347056,46.96423,282.051225,0,2,snow,0.720477292,19.55444444,0.393080407
+CH_open,surface,3,1432,meadow near forest,leaf-off,55.4924262,46.96423,282.051225,0,2,snow,0.649974501,18.605,0.441931913
+CH_open,surface,4,1432,meadow near forest,leaf-off,60.23018835,46.96423,282.051225,0,2,snow,0.628595377,16.71947368,0.418867927
+CH_open,surface,5,1432,meadow near forest,leaf-off,14.30154435,46.96423,282.051225,0,2,snow,0.693871474,17.96105263,0.404889703
+CH_open,surface,6,1432,meadow near forest,leaf-off,0.433342071,46.96423,282.051225,0,2,no snow,0.714524146,18.83631579,0.437614583
+CH_open,surface,7,1432,meadow near forest,leaf-off,0.191406559,46.96423,282.051225,0,2,no snow,0.644586141,15.7945,0.429192625
+CH_open,surface,8,1432,meadow near forest,leaf-off,0,46.96423,282.051225,0,2,no snow,0.679735643,16.82157895,0.432028357
+CH_open,surface,9,1432,meadow near forest,leaf-off,0.418134894,46.96423,282.051225,0,2,no snow,0.716815005,17.28315789,0.424781415
+CH_open,surface,10,1432,meadow near forest,leaf-off,3.088291721,46.96423,282.051225,0,2,snow,0.769976255,20.13947368,0.407122527
+CH_open,surface,11,1432,meadow near forest,leaf-off,29.19756092,46.96423,282.051225,0,2,snow,0.730059581,17.64052632,0.404322703
+CH_open,surface,12,1432,meadow near forest,leaf-off,0,46.96423,282.051225,0,2,no snow,0.634156931,14.85263158,0.366683981
+CO,soil,1,1802,alpine meadow,leaf-off,58.62367754,40.04276699,204.5137492,0,-0.12,snow,-0.778974619,-4.003628571,0.002598431
+CO,soil,2,1802,alpine meadow,leaf-off,75.81397701,40.04245767,206.0814047,0,-0.12,snow,-1.297244731,-5.3731025,1.52E-05
+CO,soil,3,1802,alpine meadow,leaf-off,80.130681,40.04245767,206.0814047,0,-0.12,snow,-0.267480428,-1.53544375,0.04527196
+CO,soil,4,1802,alpine meadow,leaf-off,86.0136037,40.04245767,206.0814047,0,-0.12,snow,-0.231664623,-1.8222645,0.012548518
+CO,soil,5,1802,alpine meadow,leaf-off,72.41612903,40.04245767,206.0814047,0,-0.12,snow,-0.112259987,-0.77238775,0.023422332
+CO,soil,6,1802,alpine meadow,leaf-off,22.17333333,40.04245767,206.0814047,0,-0.12,snow,-0.067076852,-0.7636675,0.017376187
+CO,soil,7,1802,alpine meadow,leaf-off,0,40.04245767,206.0814047,0,-0.12,no snow,-0.236922734,-2.527725,0.005878707
+CO,soil,8,1802,alpine meadow,leaf-off,0,40.04245767,206.0814047,0,-0.12,no snow,-0.298725003,-2.7660025,0.003034338
+CO,soil,9,1802,alpine meadow,leaf-off,0.282222222,40.04245767,206.0814047,0,-0.12,no snow,-0.199145862,-1.788553333,0.008159225
+CO,soil,10,1802,alpine meadow,leaf-off,3.212544803,40.04245767,206.0814047,0,-0.12,snow,0.097934218,1.410362857,0.045499328
+CO,soil,11,1802,alpine meadow,leaf-off,17.39823333,40.04245767,206.0814047,0,-0.12,snow,-0.237223444,-1.589909714,0.02096903
+CO,soil,12,1802,alpine meadow,leaf-off,36.13722222,40.04245767,206.0814047,0,-0.12,snow,-0.653175222,-3.364382857,9.94E-04
+CO,surface,1,1802,alpine meadow,leaf-off,58.62367754,40.04276699,204.5137492,0,2,snow,0.512926334,15.47428571,0.169933032
+CO,surface,2,1802,alpine meadow,leaf-off,75.81397701,40.04245767,206.0814047,0,2,snow,0.506470515,12.96,0.156901297
+CO,surface,3,1802,alpine meadow,leaf-off,80.130681,40.04245767,206.0814047,0,2,snow,0.462902183,14.06075,0.169526724
+CO,surface,4,1802,alpine meadow,leaf-off,86.0136037,40.04245767,206.0814047,0,2,snow,0.366068781,10.03825,0.158738814
+CO,surface,5,1802,alpine meadow,leaf-off,72.41612903,40.04245767,206.0814047,0,2,snow,0.435272292,12.393375,0.188534761
+CO,surface,6,1802,alpine meadow,leaf-off,22.17333333,40.04245767,206.0814047,0,2,snow,0.412636117,10.2985,0.203781372
+CO,surface,7,1802,alpine meadow,leaf-off,0,40.04245767,206.0814047,0,2,no snow,0.216275345,4.3685,0.135659281
+CO,surface,8,1802,alpine meadow,leaf-off,0,40.04245767,206.0814047,0,2,no snow,0.322218697,6.734375,0.13692278
+CO,surface,9,1802,alpine meadow,leaf-off,0.282222222,40.04245767,206.0814047,0,2,no snow,0.406419521,9.456,0.220374379
+CO,surface,10,1802,alpine meadow,leaf-off,3.212544803,40.04245767,206.0814047,0,2,snow,0.417936716,11.82957143,0.214877743
+CO,surface,11,1802,alpine meadow,leaf-off,17.39823333,40.04245767,206.0814047,0,2,snow,0.373589561,11.27814286,0.184658036
+CO,surface,12,1802,alpine meadow,leaf-off,36.13722222,40.04245767,206.0814047,0,2,snow,0.531914036,16.17142857,0.16360443
+CO_OldSecondary_1,canopy,1,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.543557307,6.5,0.269761979
+CO_OldSecondary_1,canopy,2,1042,tropical broadleaf,leaf-on,0,5.384999167,2246.294102,1,11.5,no snow,0.412478956,3.5,0.188657575
+CO_OldSecondary_1,canopy,3,1042,tropical broadleaf,leaf-on,0,5.341510465,2220.477003,1,11.5,no snow,0.58658846,8,0.284068402
+CO_OldSecondary_1,canopy,4,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.808367276,14.5,0.342708509
+CO_OldSecondary_1,canopy,5,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.549971941,7,0.2810542
+CO_OldSecondary_1,canopy,6,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.493435164,7,0.33694745
+CO_OldSecondary_1,canopy,7,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.576923077,7.5,0.353775922
+CO_OldSecondary_1,canopy,8,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.655172414,9.5,0.297632078
+CO_OldSecondary_1,canopy,9,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.497468338,7,0.292011673
+CO_OldSecondary_1,canopy,10,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.523809524,5.5,0.253606359
+CO_OldSecondary_1,canopy,11,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.445566394,4.5,0.225239067
+CO_OldSecondary_1,canopy,12,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.440204389,4.5,0.239299189
+CO_OldSecondary_1,surface,1,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.439909811,4.5,0.260315907
+CO_OldSecondary_1,surface,2,1042,tropical broadleaf,leaf-on,0,5.330890649,2214.172542,1,1,no snow,0.381195568,3.2,0.163709728
+CO_OldSecondary_1,surface,3,1042,tropical broadleaf,leaf-on,0,5.327978327,2212.44364,1,1,no snow,0.547183847,5,0.189968579
+CO_OldSecondary_1,surface,4,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.467138292,4.4635,0.259327611
+CO_OldSecondary_1,surface,5,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.564811501,5.5409,0.200207462
+CO_OldSecondary_1,surface,6,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.466977378,4.6103,0.263742207
+CO_OldSecondary_1,surface,7,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.55673154,6.2,0.308784453
+CO_OldSecondary_1,surface,8,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.549705684,5.7,0.258407027
+CO_OldSecondary_1,surface,9,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.525359742,5.2,0.242059705
+CO_OldSecondary_1,surface,10,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.472029312,4.2,0.208541313
+CO_OldSecondary_1,surface,11,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.358363862,3,0.188628913
+CO_OldSecondary_1,surface,12,1042,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.410206327,3.5,0.188254011
+CO_PrimaryForest_1,canopy,1,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.530722778,6.5,0.225177688
+CO_PrimaryForest_1,canopy,2,1039,tropical broadleaf,leaf-on,0,5.384999167,2246.294102,1,11.5,no snow,0.275240941,2.5,0.149837433
+CO_PrimaryForest_1,canopy,3,1039,tropical broadleaf,leaf-on,0,5.344998864,2222.547894,1,11.5,no snow,0.518544973,5.5,0.227690653
+CO_PrimaryForest_1,canopy,4,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.446108908,5.5,0.291365698
+CO_PrimaryForest_1,canopy,5,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.467099366,6,0.199619174
+CO_PrimaryForest_1,canopy,6,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.43852901,5,0.231742781
+CO_PrimaryForest_1,canopy,7,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.483493778,6,0.316375573
+CO_PrimaryForest_1,canopy,8,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.523784927,6.5,0.237318889
+CO_PrimaryForest_1,canopy,9,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.551677284,7,0.226352916
+CO_PrimaryForest_1,canopy,10,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.489978944,5.5,0.204213317
+CO_PrimaryForest_1,canopy,11,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.400891863,4.5,0.203409164
+CO_PrimaryForest_1,canopy,12,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.354245954,4,0.218358379
+CO_PrimaryForest_1,surface,1,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.375293313,3,0.182543281
+CO_PrimaryForest_1,surface,2,1039,tropical broadleaf,leaf-on,0,5.325767949,2211.131447,1,1,no snow,0.247942352,1.5,0.095103129
+CO_PrimaryForest_1,surface,3,1039,tropical broadleaf,leaf-on,0,5.33131876,2214.42669,1,1,no snow,0.559369301,4.5,0.128633391
+CO_PrimaryForest_1,surface,4,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.623042502,6.5569,0.169139293
+CO_PrimaryForest_1,surface,5,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.305379402,2.5,0.107653219
+CO_PrimaryForest_1,surface,6,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.176234872,1.5,0.125143333
+CO_PrimaryForest_1,surface,7,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.377744278,3.5,0.230988144
+CO_PrimaryForest_1,surface,8,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.284368396,2.9,0.149662055
+CO_PrimaryForest_1,surface,9,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.36313652,3,0.173779451
+CO_PrimaryForest_1,surface,10,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.375734575,3,0.13041477
+CO_PrimaryForest_1,surface,11,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.3086067,2,0.15883449
+CO_PrimaryForest_1,surface,12,1039,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.34373514,2.4,0.14010072
+CO_YoungSecondary_1,canopy,1,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.565217391,6.5,0.339104438
+CO_YoungSecondary_1,canopy,2,832,tropical broadleaf,leaf-on,0,5.403173217,2257.08314,1,11.5,no snow,0.683763459,6,0.331364887
+CO_YoungSecondary_1,canopy,3,832,tropical broadleaf,leaf-on,0,5.327584098,2212.209605,1,11.5,no snow,0.887625365,13,0.361079635
+CO_YoungSecondary_1,canopy,4,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.908738935,16,0.401797519
+CO_YoungSecondary_1,canopy,5,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.644160328,9.5,0.33605821
+CO_YoungSecondary_1,canopy,6,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.719101209,11.5,0.378401673
+CO_YoungSecondary_1,canopy,7,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,1.013033505,18.5,0.44723549
+CO_YoungSecondary_1,canopy,8,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.815803165,14,0.390810986
+CO_YoungSecondary_1,canopy,9,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.796162194,12.5,0.399300514
+CO_YoungSecondary_1,canopy,10,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.847791248,11.5,0.340314608
+CO_YoungSecondary_1,canopy,11,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.536656315,6,0.322423627
+CO_YoungSecondary_1,canopy,12,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,11.5,no snow,0.577920492,6.5,0.339054363
+CO_YoungSecondary_1,surface,1,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.589937552,6.9,0.341751764
+CO_YoungSecondary_1,surface,2,832,tropical broadleaf,leaf-on,0,5.332537231,2215.150036,1,1,no snow,0.808123583,7.3,0.320131501
+CO_YoungSecondary_1,surface,3,832,tropical broadleaf,leaf-on,0,5.317085609,2205.97717,1,1,no snow,0.699379731,6.5,0.331205688
+CO_YoungSecondary_1,surface,4,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.691780298,7.163,0.364841029
+CO_YoungSecondary_1,surface,5,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.736189037,8.0388,0.304082088
+CO_YoungSecondary_1,surface,6,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.692178738,8.5,0.349793036
+CO_YoungSecondary_1,surface,7,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.721966427,9,0.416384093
+CO_YoungSecondary_1,surface,8,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.945304457,14.4,0.360670352
+CO_YoungSecondary_1,surface,9,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.781078763,9.9,0.366769734
+CO_YoungSecondary_1,surface,10,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,1.137468788,15.4,0.323828133
+CO_YoungSecondary_1,surface,11,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.897888342,11.4,0.330424995
+CO_YoungSecondary_1,surface,12,832,tropical broadleaf,leaf-on,0,5.362999,2233.233687,1,1,no snow,0.675435748,7.9,0.318234546
+CR_basham,canopy,5,1986,tropical broadleaf,leaf-on,0,10.28694261,2141.041543,1,20,no snow,-0.208649109,-2.000333333,0.051645715
+CR_basham,canopy,6,1986,tropical broadleaf,leaf-on,0,10.30356,2024.137483,1,20,no snow,-0.040488556,-0.438333333,0.039216549
+CR_basham,canopy,7,1986,tropical broadleaf,leaf-on,0,10.29931333,2054.012965,1,20,no snow,-0.220266907,-2.00275,0.007101673
+CR_basham,soil,5,1986,tropical broadleaf,leaf-on,0,10.28694261,2141.041543,1,-0.07,no snow,-0.296541828,-1.435083333,0.006221707
+CR_basham,soil,6,1986,tropical broadleaf,leaf-on,0,10.30356,2024.137483,1,-0.07,no snow,-1.529206754,-6.152833333,0
+CR_basham,soil,7,1986,tropical broadleaf,leaf-on,0,10.29931333,2054.012965,1,-0.07,no snow,-2.131960683,-7.12625,0
+CR_basham,surface,5,1986,tropical broadleaf,leaf-on,0,10.28694261,2141.041543,1,1,no snow,0.075247453,0.657833333,0.059194086
+CR_basham,surface,6,1986,tropical broadleaf,leaf-on,0,10.30356,2024.137483,1,1,no snow,-0.350672953,-2.751583333,0.001603674
+CR_basham,surface,7,1986,tropical broadleaf,leaf-on,0,10.29931333,2054.012965,1,1,no snow,-0.417422279,-3.643916667,1.53E-04
+CR_northwest,surface,1,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.334445572,4.41045316,0.388326353
+CR_northwest,surface,2,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.344126125,4.41070557,0.380649675
+CR_northwest,surface,3,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.417187579,5.50145557,0.416904587
+CR_northwest,surface,4,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.355778439,4.14660004,0.373716981
+CR_northwest,surface,5,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.311302526,3.44868494,0.369537613
+CR_northwest,surface,6,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.343816234,3.36261295,0.379856506
+CR_northwest,surface,7,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.441221944,4.54145423,0.417982173
+CR_northwest,surface,8,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.412189031,4.19228633,0.404753365
+CR_northwest,surface,9,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.363894355,3.7116967,0.392813933
+CR_northwest,surface,10,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.365043403,3.75578441,0.397888619
+CR_northwest,surface,11,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.427040565,4.36619718,0.422936559
+CR_northwest,surface,12,1039,developed,leaf-off,0,10.0378405,79.62273805,0,1.6,no snow,0.461054041,5.50212866,0.417949485
+CR_southwest,surface,1,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.612334473,-5.81501832,0.070736764
+CR_southwest,surface,2,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.323164486,-3.52564103,0.135617305
+CR_southwest,surface,3,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.258124805,-3.15934066,0.160398734
+CR_southwest,surface,4,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.359990437,-4.16666667,0.131267822
+CR_southwest,surface,5,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.595843591,-5.49450549,0.073722366
+CR_southwest,surface,6,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.6375305,-6.18131868,0.065693548
+CR_southwest,surface,7,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.629563302,-5.67765568,0.067299403
+CR_southwest,surface,8,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.542115199,-5.26556777,0.084826708
+CR_southwest,surface,9,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.705710836,-6.04395605,0.0545378
+CR_southwest,surface,10,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.733512346,-6.27289377,0.050006474
+CR_southwest,surface,11,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.601078144,-6.08974359,0.072679753
+CR_southwest,surface,12,3080,developed,leaf-off,0,9.242927,598.8305678,0,1.6,no snow,-0.649358847,-5.9981685,0.063658309
+EC_maquipucuna,surface,1,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.278353013,1.900865,0.098958343
+EC_maquipucuna,surface,2,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.368275716,2.562585,0.047647192
+EC_maquipucuna,surface,3,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.291007049,1.973915,0.107554364
+EC_maquipucuna,surface,4,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.417859336,3.1472,0.172788684
+EC_maquipucuna,surface,5,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.57109831,4.09432,0.136215006
+EC_maquipucuna,surface,6,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.788958417,6.81836,0.216523235
+EC_maquipucuna,surface,7,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.760238594,6.64689,0.282675077
+EC_maquipucuna,surface,8,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.606380851,5.386965,0.319817759
+EC_maquipucuna,surface,9,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.741417912,9.21214,0.304575498
+EC_maquipucuna,surface,10,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.44129614,4.71255,0.217321715
+EC_maquipucuna,surface,11,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.734477836,9.29904,0.242376754
+EC_maquipucuna,surface,12,1052,tropical broadleaf,leaf-on,0,0.122683335,1463.29546,1,1.5,no snow,0.481800328,3.9704,0.170303163
+ID,soil,1,686,scrub shrub,leaf-off,14.94325,43.1160225,0,0,-0.1,snow,2.878330172,4.077,0.143496127
+ID,soil,2,686,scrub shrub,leaf-off,11.02564368,43.1160225,0,0,-0.1,snow,1.17523039,3.153,0.129853594
+ID,soil,3,686,scrub shrub,leaf-off,2.305913978,43.1160225,0,0,-0.1,snow,0.449083952,5.016333333,0.110422271
+ID,soil,4,686,scrub shrub,leaf-off,0.282222222,43.1160225,0,0,-0.1,no snow,0.523793981,8.1885,0.208869656
+ID,soil,5,686,scrub shrub,leaf-off,0.027419355,43.1160225,0,0,-0.1,no snow,0.607460577,14.229,0.458017407
+ID,soil,6,686,scrub shrub,leaf-off,0,43.1160225,0,0,-0.1,no snow,0.611926231,15.069,0.438882457
+ID,soil,7,686,scrub shrub,leaf-off,0,43.1160225,0,0,-0.1,no snow,0.587602635,14.435,0.424076952
+ID,soil,8,686,scrub shrub,leaf-off,0,43.1160225,0,0,-0.1,no snow,0.617141949,14.59,0.468761811
+ID,soil,9,686,scrub shrub,leaf-off,0,43.1160225,0,0,-0.1,no snow,0.728411463,18.59733333,0.486763297
+ID,soil,10,686,scrub shrub,leaf-off,0,43.1160225,0,0,-0.1,no snow,0.712666306,13.1735,0.448871206
+ID,soil,11,686,scrub shrub,leaf-off,1.095888889,43.1160225,0,0,-0.1,no snow,0.942289174,10.32,0.413786592
+ID,soil,12,686,scrub shrub,leaf-off,5.756553672,43.11340271,0,0,-0.1,snow,0.934024624,1.5915,0.102852931
+ID,surface,1,686,scrub shrub,leaf-off,14.94325,43.1160225,0,0,1,snow,0.939455294,21.3665,0.642469561
+ID,surface,2,686,scrub shrub,leaf-off,11.02564368,43.1160225,0,0,1,snow,0.81847952,18.57333333,0.611875284
+ID,surface,3,686,scrub shrub,leaf-off,2.305913978,43.1160225,0,0,1,snow,0.760627141,17.88,0.50135045
+ID,surface,4,686,scrub shrub,leaf-off,0.282222222,43.1160225,0,0,1,no snow,0.762587484,17.50833333,0.488132275
+ID,surface,5,686,scrub shrub,leaf-off,0.027419355,43.1160225,0,0,1,no snow,0.766094837,19.574,0.553859904
+ID,surface,6,686,scrub shrub,leaf-off,0,43.1160225,0,0,1,no snow,0.781392688,21.863,0.576222221
+ID,surface,7,686,scrub shrub,leaf-off,0,43.1160225,0,0,1,no snow,0.739396252,17.346,0.533648347
+ID,surface,8,686,scrub shrub,leaf-off,0,43.1160225,0,0,1,no snow,0.765816571,17.66333333,0.556905282
+ID,surface,9,686,scrub shrub,leaf-off,0,43.1160225,0,0,1,no snow,0.797236047,21.0895,0.652280611
+ID,surface,10,686,scrub shrub,leaf-off,0,43.1160225,0,0,1,no snow,0.825600554,20.132,0.588166151
+ID,surface,11,686,scrub shrub,leaf-off,1.095888889,43.1160225,0,0,1,no snow,0.940186532,23.13233333,0.558627048
+ID,surface,12,686,scrub shrub,leaf-off,5.498575269,43.1160225,0,0,1,snow,0.914881942,15.65266667,0.573454512
+MD,canopy,1,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,19,no snow,0.697723399,9.954,0.473459328
+MD,canopy,2,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,19,no snow,0.785833906,10.955,0.488124929
+MD,canopy,11,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,19,no snow,0.233193855,0.999,0.346046575
+MD,canopy,12,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,19,no snow,0.88932224,14.472,0.555197717
+MD,soil,1,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,-0.07,no snow,0.377964473,1.5,0.142963562
+MD,soil,2,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,-0.07,no snow,0.375,1.5,0.085599996
+MD,soil,11,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,-0.07,no snow,-0.447213595,-1,0.110557695
+MD,soil,12,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,-0.07,no snow,0.639602149,3,0.200007596
+MD,surface,1,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,1,no snow,0.771715019,9.018,0.453647381
+MD,surface,2,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,1,no snow,0.873214596,9.518,0.447336051
+MD,surface,11,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,1,no snow,0.266785806,1.063,0.359863629
+MD,surface,12,950,tropical broadleaf,leaf-on,0,-21.265,1657.80714,1,1,no snow,0.856423549,11.566,0.598834985
+MY_SAFE_degraded,surface,5,125.4231,degraded tropical broadleaf,leaf-on,0,4.695657231,1143.81635,1,1.5,no snow,0.860309002,7.5,0.815486153
+MY_SAFE_degraded,surface,6,125.4231,degraded tropical broadleaf,leaf-on,0,4.696118,1141.109421,1,1.5,no snow,1.004158022,11,0.782729386
+MY_SAFE_degraded,surface,7,125.4231,degraded tropical broadleaf,leaf-on,0,4.696118,1141.109421,1,1.5,no snow,0.978019294,11,0.774338292
+MY_SAFE_degraded,surface,8,125.4231,degraded tropical broadleaf,leaf-on,0,4.696118,1141.109421,1,1.5,no snow,0.923380517,9,0.796068182
+MY_SAFE_degraded,surface,9,125.4231,degraded tropical broadleaf,leaf-on,0,4.696118,1141.109421,1,1.5,no snow,0.901127114,9,0.80327867
+MY_SAFE_degraded,surface,10,125.4231,degraded tropical broadleaf,leaf-on,0,4.696118,1141.109421,1,1.5,no snow,1.024695077,10.5,0.834359775
+MY_SAFE_degraded,surface,11,125.4231,degraded tropical broadleaf,leaf-on,0,4.695851778,1142.673425,1,1.5,no snow,1.006993092,8.5,0.750205891
+MY_SAFE_primary,surface,1,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.87438565,8.5,0.739820459
+MY_SAFE_primary,surface,2,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.887244262,11.5,0.718627291
+MY_SAFE_primary,surface,3,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.858753861,10.5,0.683415516
+MY_SAFE_primary,surface,4,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.879049073,8.5,0.603047996
+MY_SAFE_primary,surface,5,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.880408778,9,0.550065165
+MY_SAFE_primary,surface,6,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.620173673,7.5,0.585171607
+MY_SAFE_primary,surface,7,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.923902484,13,0.734437525
+MY_SAFE_primary,surface,8,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.92520895,9,0.464339961
+MY_SAFE_primary,surface,9,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.832000165,7.5,0.652141841
+MY_SAFE_primary,surface,10,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.822328471,7.5,0.719145265
+MY_SAFE_primary,surface,11,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.839616013,7,0.697559952
+MY_SAFE_primary,surface,12,122.5,tropical broadleaf,leaf-on,0,4.7491545,1888.223848,1,1.5,no snow,0.871113053,7.25,0.688672633
+NC,canopy,1,1200,deciduous,leaf-off,8.493722222,35.71462325,1963.382791,0.3,20,snow,0.850949066,30.84941667,0.714041313
+NC,canopy,2,1200,deciduous,leaf-off,4.222068966,35.71462325,1963.382791,0.3,20,snow,0.844311004,29.321,0.653567586
+NC,canopy,3,1200,deciduous,leaf-off,1.311290323,35.71462325,1963.382791,0.309854452,20,no snow,0.77913836,27.98266667,0.603160297
+NC,canopy,4,1200,deciduous,leaf-off,0.295833333,35.71462325,1963.382791,0.744727508,20,no snow,0.792825565,25.36625,0.549717825
+NC,canopy,5,1200,deciduous,leaf-off,0.051209677,35.71462325,1963.382791,0.85001043,20,no snow,0.800275945,21.50083333,0.481028272
+NC,canopy,6,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.939046661,20,no snow,0.741652114,15.15833333,0.479459644
+NC,canopy,7,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.938949382,20,no snow,0.65433056,11.83366667,0.446533504
+NC,canopy,8,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.961774493,20,no snow,0.689960996,13.73088889,0.375648546
+NC,canopy,9,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.934395056,20,no snow,0.704928582,13.98538889,0.404364494
+NC,canopy,10,1200,deciduous,leaf-off,0,35.71462325,1963.382791,0.6532842,20,no snow,0.77809833,23.88983333,0.641415682
+NC,canopy,11,1200,deciduous,leaf-off,0.605277778,35.71462325,1963.382791,0.3,20,no snow,0.890531513,26.38116667,0.744807707
+NC,canopy,12,1200,deciduous,leaf-off,9.011774194,35.71462325,1963.382791,0.3,20,snow,0.819144086,23.19677778,0.71264061
+NC,soil,1,1200,deciduous,leaf-off,8.493722222,35.71462325,1963.382791,0.3,-0.07,snow,0.656575371,7.190333333,0.256849865
+NC,soil,2,1200,deciduous,leaf-off,4.222068966,35.71462325,1963.382791,0.3,-0.07,snow,0.661077255,8.946333333,0.177027031
+NC,soil,3,1200,deciduous,leaf-off,1.311290323,35.71462325,1963.382791,0.309854452,-0.07,no snow,0.795720412,12.557,0.2517031
+NC,soil,4,1200,deciduous,leaf-off,0.295833333,35.71462325,1963.382791,0.744727508,-0.07,no snow,0.657774065,9.991,0.320724847
+NC,soil,5,1200,deciduous,leaf-off,0.051209677,35.71462325,1963.382791,0.85001043,-0.07,no snow,0.858646259,8.047222222,0.20902361
+NC,soil,6,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.939046661,-0.07,no snow,0.556248111,4.721111111,0.042665747
+NC,soil,7,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.938949382,-0.07,no snow,-0.122596517,-0.475666667,0.006980114
+NC,soil,8,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.961774493,-0.07,no snow,-0.107224474,0.084333333,0.036495491
+NC,soil,9,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.934395056,-0.07,no snow,-0.087092324,1.113111111,0.07664045
+NC,soil,10,1200,deciduous,leaf-off,0,35.71462325,1963.382791,0.6532842,-0.07,no snow,0.596596159,5.524666667,0.290633419
+NC,soil,11,1200,deciduous,leaf-off,0.605277778,35.71462325,1963.382791,0.3,-0.07,no snow,0.420579567,4.185333333,0.173173015
+NC,soil,12,1200,deciduous,leaf-off,9.011774194,35.71462325,1963.382791,0.3,-0.07,snow,0.347157468,3.121666667,0.102284586
+NC,surface,1,1200,deciduous,leaf-off,8.493722222,35.71462325,1963.382791,0.3,1,snow,0.819525394,29.56255556,0.671391109
+NC,surface,2,1200,deciduous,leaf-off,4.222068966,35.71462325,1963.382791,0.3,1,snow,0.874558227,30.00111111,0.66893436
+NC,surface,3,1200,deciduous,leaf-off,1.311290323,35.71462325,1963.382791,0.309854452,1,no snow,0.800025922,29.17377778,0.611217329
+NC,surface,4,1200,deciduous,leaf-off,0.295833333,35.71462325,1963.382791,0.744727508,1,no snow,0.861852397,26.93211111,0.574578005
+NC,surface,5,1200,deciduous,leaf-off,0.051209677,35.71462325,1963.382791,0.85001043,1,no snow,0.847938758,18.93616667,0.446687187
+NC,surface,6,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.939046661,1,no snow,0.768040453,13.81844444,0.399144859
+NC,surface,7,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.938949382,1,no snow,0.62169506,8.373777778,0.341309502
+NC,surface,8,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.961774493,1,no snow,0.615342782,8.791222222,0.272979735
+NC,surface,9,1200,deciduous,leaf-on,0,35.71462325,1963.382791,0.934395056,1,no snow,0.634353695,9.409444444,0.327463809
+NC,surface,10,1200,deciduous,leaf-off,0,35.71462325,1963.382791,0.6532842,1,no snow,0.770593907,18.94944444,0.574969027
+NC,surface,11,1200,deciduous,leaf-off,0.605277778,35.71462325,1963.382791,0.3,1,no snow,0.832953655,24.70766667,0.706260983
+NC,surface,12,1200,deciduous,leaf-off,9.011774194,35.71462325,1963.382791,0.3,1,snow,0.866587896,22.95075,0.698476152
+NH_forest,soil,1,395,deciduous,leaf-off,27.09037037,43.92892241,1395.935253,0.4,-0.05,snow,0.504093134,0.833333333,0.224131486
+NH_forest,soil,2,395,deciduous,leaf-off,30.18433735,43.92905278,1395.723447,0.4,-0.05,snow,0.676191764,0.716666667,0.240300145
+NH_forest,soil,3,395,deciduous,leaf-off,26.89924242,43.92912845,1395.600501,0.4,-0.05,snow,-0.096051884,0.825,0.239665761
+NH_forest,soil,4,395,deciduous,leaf-off,5.444444444,43.9289325,1395.918869,0.433416114,-0.05,snow,0.02570044,1.87225,0.145603413
+NH_forest,soil,5,395,deciduous,leaf-off,0,43.92872533,1396.255451,0.827852046,-0.05,no snow,0.689618257,8.1395,0.447036795
+NH_forest,soil,6,395,deciduous,leaf-on,0,43.92903803,1395.74741,0.994725793,-0.05,no snow,0.63606194,4.4625,0.355296972
+NH_forest,soil,7,395,deciduous,leaf-on,0,43.92902428,1395.769758,0.985394339,-0.05,no snow,0.609418951,3.55375,0.229725171
+NH_forest,soil,8,395,deciduous,leaf-on,0,43.92912845,1395.600501,0.977255843,-0.05,no snow,0.547155369,2.45125,0.217083524
+NH_forest,soil,9,395,deciduous,leaf-on,0,43.92903803,1395.74741,0.952344664,-0.05,no snow,0.787882327,6.25625,0.423137838
+NH_forest,soil,10,395,deciduous,leaf-on,0.343908046,43.92923503,1395.427353,0.585164161,-0.05,no snow,0.731853914,6.952125,0.442789582
+NH_forest,soil,11,395,deciduous,leaf-off,5.367294118,43.92914605,1395.571917,0.403239668,-0.05,snow,0.699973713,6.5125,0.373181418
+NH_forest,soil,12,395,deciduous,leaf-off,23.1183908,43.92923503,1395.427353,0.4,-0.05,snow,0.473843782,2.266666667,0.24441957
+NH_nonforest,surface,1,639,meadow near forest,leaf-off,27.09037037,43.9310345,1507.270952,0,1.524,snow,0.892775981,27.13333333,0.588431694
+NH_nonforest,surface,2,639,meadow near forest,leaf-off,30.18433735,43.9310345,1507.270952,0,1.524,snow,0.842025843,24.06666667,0.572422436
+NH_nonforest,surface,3,639,meadow near forest,leaf-off,26.89924242,43.9310345,1507.270952,0,1.524,snow,0.859934428,28.57142857,0.579399315
+NH_nonforest,surface,4,639,meadow near forest,leaf-off,5.444444444,43.9310345,1507.270952,0,1.524,snow,0.814633005,25.21428571,0.582359789
+NH_nonforest,surface,5,639,meadow near forest,leaf-off,0,43.9310345,1507.270952,0,1.524,no snow,0.921915673,28.78571429,0.619104035
+NH_nonforest,surface,6,639,meadow near forest,leaf-off,0,43.9310345,1507.270952,0,1.524,no snow,0.918800829,25.28571429,0.670017732
+NH_nonforest,surface,7,639,meadow near forest,leaf-off,0,43.9310345,1507.270952,0,1.524,no snow,0.91074254,21.5,0.654776475
+NH_nonforest,surface,8,639,meadow near forest,leaf-off,0,43.9310345,1507.270952,0,1.524,no snow,0.899459662,21.57142857,0.650686573
+NH_nonforest,surface,9,639,meadow near forest,leaf-off,0,43.9310345,1507.270952,0,1.524,no snow,0.909012888,24.35714286,0.636462895
+NH_nonforest,surface,10,639,meadow near forest,leaf-off,0.343908046,43.9310345,1507.270952,0,1.524,no snow,0.846353565,22.57142857,0.58741583
+NH_nonforest,surface,11,639,meadow near forest,leaf-off,5.367294118,43.9310345,1507.270952,0,1.524,snow,0.820310468,20.5,0.573486802
+NH_nonforest,surface,12,639,meadow near forest,leaf-off,23.1183908,43.9310345,1507.270952,0,1.524,snow,0.865365952,23.21428571,0.545703548
+NM_canopy,canopy,1,530,Ponderosa pine,leaf-on,17.58991935,35.8763385,669.1596248,1,21,snow,0.914528647,25.60684357,0.801253661
+NM_canopy,canopy,2,530,Ponderosa pine,leaf-on,26.30905172,35.8763385,669.1596248,1,21,snow,0.939210004,27.36361429,0.702168935
+NM_canopy,canopy,3,530,Ponderosa pine,leaf-on,19.65389785,35.8763385,669.1596248,1,21,snow,0.856872934,24.66438643,0.725291998
+NM_canopy,canopy,4,530,Ponderosa pine,leaf-on,3.308194444,35.8763385,669.1596248,1,21,snow,0.854960954,23.10253929,0.718515806
+NM_canopy,canopy,5,530,Ponderosa pine,leaf-on,0.293413978,35.8763385,669.1596248,1,21,no snow,0.957750944,26.52753417,0.693463609
+NM_canopy,canopy,6,530,Ponderosa pine,leaf-on,0.232638889,35.8763385,669.1596248,1,21,no snow,0.851061327,19.97343167,0.618106332
+NM_canopy,canopy,7,530,Ponderosa pine,leaf-on,0.255376344,35.8763385,669.1596248,1,21,no snow,0.820252337,15.5607025,0.624230177
+NM_canopy,canopy,8,530,Ponderosa pine,leaf-on,0.296908602,35.8763385,669.1596248,1,21,no snow,0.860869146,15.00026917,0.616030067
+NM_canopy,canopy,9,530,Ponderosa pine,leaf-on,0.263888889,35.8763385,669.1596248,1,21,no snow,0.924715866,18.78766833,0.6562981
+NM_canopy,canopy,10,530,Ponderosa pine,leaf-on,0.111693548,35.8763385,669.1596248,1,21,no snow,0.890419688,23.8227475,0.722623258
+NM_canopy,canopy,11,530,Ponderosa pine,leaf-on,1.724444444,35.8763385,669.1596248,1,21,no snow,0.926317625,26.062635,0.744998437
+NM_canopy,canopy,12,530,Ponderosa pine,leaf-on,8.797446237,35.8763385,669.1596248,1,21,snow,0.971255851,31.78740417,0.776522502
+NM_soil,soil,1,348.3,Ponderosa pine,leaf-on,17.58991935,35.8665415,747.3640896,1,-0.11,snow,1.110056167,1.75,0.415326226
+NM_soil,soil,2,348.3,Ponderosa pine,leaf-on,26.30905172,35.8665415,747.3640896,1,-0.11,snow,1.782265577,1.8,0.12221979
+NM_soil,soil,3,348.3,Ponderosa pine,leaf-on,19.65389785,35.8665415,747.3640896,1,-0.11,snow,1.273559134,1.9,0.250606593
+NM_soil,soil,4,348.3,Ponderosa pine,leaf-on,3.308194444,35.8665415,747.3640896,1,-0.11,snow,0.743908483,7.4,0.461996533
+NM_soil,soil,5,348.3,Ponderosa pine,leaf-on,0.293413978,35.8665415,747.3640896,1,-0.11,no snow,0.690322424,8,0.566940432
+NM_soil,soil,6,348.3,Ponderosa pine,leaf-on,0.232638889,35.8665415,747.3640896,1,-0.11,no snow,0.732828109,8.7,0.472882584
+NM_soil,soil,7,348.3,Ponderosa pine,leaf-on,0.255376344,35.8665415,747.3640896,1,-0.11,no snow,0.662655946,6.6,0.407647394
+NM_soil,soil,8,348.3,Ponderosa pine,leaf-on,0.296908602,35.8665415,747.3640896,1,-0.11,no snow,0.997192242,10.9,0.413499381
+NM_soil,soil,9,348.3,Ponderosa pine,leaf-on,0.263888889,35.8665415,747.3640896,1,-0.11,no snow,0.718193488,8.1,0.489153662
+NM_soil,soil,10,348.3,Ponderosa pine,leaf-on,0.111693548,35.8665415,747.3640896,1,-0.11,no snow,0.772424228,9.7,0.582815931
+NM_soil,soil,11,348.3,Ponderosa pine,leaf-on,1.724444444,35.8665415,747.3640896,1,-0.11,no snow,0.910298035,7.3,0.425370803
+NM_soil,soil,12,348.3,Ponderosa pine,leaf-on,8.797446237,35.8665415,747.3640896,1,-0.11,snow,2.437012492,3.5,0.336003062
+OR,soil,1,957,Dense coniferous,leaf-on,71.58891482,44.27225617,1628.045493,1,-0.1,snow,-0.589301356,-0.48,0.009532511
+OR,soil,2,957,Dense coniferous,leaf-on,43.31665696,44.27225617,1628.045493,1,-0.1,snow,-1.106886932,-0.5,0.015533633
+OR,soil,3,957,Dense coniferous,leaf-on,33.54893927,44.27225617,1628.045493,1,-0.1,snow,-2.318712977,-2.2,1.27E-06
+OR,soil,4,957,Dense coniferous,leaf-on,11.86910109,44.27225617,1628.045493,1,-0.1,snow,-3.28754215,-4.06,0
+OR,soil,5,957,Dense coniferous,leaf-on,0.467741935,44.27225617,1628.045493,1,-0.1,no snow,-3.161429514,-4.483333333,0.029290801
+OR,soil,6,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,-0.1,no snow,-1.90208087,0.45,0.042157178
+OR,soil,7,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,-0.1,no snow,0.255164962,2.88,0.096839518
+OR,soil,8,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,-0.1,no snow,-0.023672741,0.483333333,0.018739114
+OR,soil,9,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,-0.1,no snow,0.277395804,1.516666667,0.12942174
+OR,soil,10,957,Dense coniferous,leaf-on,0.122887865,44.27225617,1628.045493,1,-0.1,no snow,0.445100189,3.166666667,0.140913428
+OR,soil,11,957,Dense coniferous,leaf-on,4.810952729,44.27225617,1628.045493,1,-0.1,snow,0.255207327,1.616666667,0.122491698
+OR,soil,12,957,Dense coniferous,leaf-on,36.26909867,44.27225617,1628.045493,1,-0.1,snow,-0.317081785,-0.06,0.0825406
+OR,surface,1,957,Dense coniferous,leaf-on,71.58891482,44.27225617,1628.045493,1,2.85,snow,0.889592148,14.22,0.518550568
+OR,surface,2,957,Dense coniferous,leaf-on,43.31665696,44.27225617,1628.045493,1,2.85,snow,0.719180108,10.66,0.38861116
+OR,surface,3,957,Dense coniferous,leaf-on,33.54893927,44.27225617,1628.045493,1,2.85,snow,0.614750894,11.4,0.322611815
+OR,surface,4,957,Dense coniferous,leaf-on,11.86910109,44.27225617,1628.045493,1,2.85,snow,0.607583139,13.56,0.338812905
+OR,surface,5,957,Dense coniferous,leaf-on,0.467741935,44.27225617,1628.045493,1,2.85,no snow,0.701919367,18.8,0.426028593
+OR,surface,6,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,2.85,no snow,0.657159824,17.46666667,0.542333572
+OR,surface,7,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,2.85,no snow,0.794627711,20.8,0.65943456
+OR,surface,8,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,2.85,no snow,0.833093915,21.56666667,0.651523596
+OR,surface,9,957,Dense coniferous,leaf-on,0,44.27225617,1628.045493,1,2.85,no snow,0.855211735,24.56666667,0.694623309
+OR,surface,10,957,Dense coniferous,leaf-on,0.122887865,44.27225617,1628.045493,1,2.85,no snow,0.892195974,23.21666667,0.660249415
+OR,surface,11,957,Dense coniferous,leaf-on,4.810952729,44.27225617,1628.045493,1,2.85,snow,0.865177526,15.53333333,0.518941412
+OR,surface,12,957,Dense coniferous,leaf-on,36.26909867,44.27225617,1628.045493,1,2.85,snow,0.93738239,15.66,0.470947192
+PH,canopy,5,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,18.25,no snow,0.599150145,7.03,0.296533243
+PH,canopy,6,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,18.25,no snow,0.553382291,8.47,0.34525437
+PH,canopy,7,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,18.25,no snow,0.76495171,12.05,0.29158518
+PH,canopy,8,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,18.25,no snow,0.591996738,7.97,0.221159426
+PH,canopy,9,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,18.25,no snow,0.804325512,9.97,0.555286135
+PH,surface,5,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,1,no snow,0.213256105,1.52,0.231143545
+PH,surface,6,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,1,no snow,0.474611568,6.42,0.271249748
+PH,surface,7,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,1,no snow,0.467271718,7.51,0.248367005
+PH,surface,8,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,1,no snow,0.360110954,4.01,0.178749486
+PH,surface,9,800,tropical broadleaf,leaf-on,0,14.08,1873.05641,1,1,no snow,0.625572378,10.02,0.534028489
+PT,surface,1,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.875009468,19,0.700725762
+PT,surface,2,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.791211408,14.1,0.624322297
+PT,surface,3,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.836115063,20.5,0.720671859
+PT,surface,4,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.53868482,8.1,0.269075768
+PT,surface,5,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.793510038,18.3,0.572154819
+PT,surface,6,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.760310384,20.7,0.655491241
+PT,surface,7,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.806789199,20.6,0.66239975
+PT,surface,8,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.839394643,22.7,0.667797899
+PT,surface,9,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.81780286,23.9,0.656800609
+PT,surface,10,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.759078996,18.9,0.631235949
+PT,surface,11,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.864756445,15.9,0.394728893
+PT,surface,12,800,scrub shrub,leaf-off,0,40.340966,0,0,1.3,no snow,0.621835423,7,0.31933398
+SE,soil,1,400,scrub shrub,leaf-off,37.92991721,68.269381,424.4553074,0,-0.02,snow,0.382993187,0.41900818,0.186826903
+SE,soil,2,400,scrub shrub,leaf-off,50.16705621,68.269381,424.4553074,0,-0.02,snow,-0.287618024,-0.269459233,0.00256973
+SE,soil,3,400,scrub shrub,leaf-off,58.01273283,68.269381,424.4553074,0,-0.02,snow,-1.428529408,-1.313211635,0
+SE,soil,4,400,scrub shrub,leaf-off,53.96532701,68.269381,424.4553074,0,-0.02,snow,0.434270095,0.554739468,0.034985349
+SE,soil,5,400,scrub shrub,leaf-off,20.73811746,68.269381,424.4553074,0,-0.02,snow,1.371112515,0.712222498,0.021578307
+SE,soil,6,400,scrub shrub,leaf-off,0.073589744,68.269381,424.4553074,0,-0.02,no snow,1.083724141,11.68865489,0.718739771
+SE,soil,7,400,scrub shrub,leaf-off,0,68.269381,424.4553074,0,-0.02,no snow,1.246133137,10.43429327,0.571625333
+SE,soil,8,400,scrub shrub,leaf-off,0,68.269381,424.4553074,0,-0.02,no snow,0.993751242,8.251678944,0.496773754
+SE,soil,9,400,scrub shrub,leaf-off,0.233848456,68.269381,424.4553074,0,-0.02,no snow,0.872172985,4.445271194,0.568336046
+SE,soil,10,400,scrub shrub,leaf-off,3.147184783,68.269381,424.4553074,0,-0.02,snow,0.58357294,1.204238866,0.270153228
+SE,soil,11,400,scrub shrub,leaf-off,12.75369131,68.269381,424.4553074,0,-0.02,snow,0.674815931,0.147241006,0.457680132
+SE,soil,12,400,scrub shrub,leaf-off,26.60570897,68.269381,424.4553074,0,-0.02,snow,0.78265784,0.795829174,0.293468577
+TN,soil,1,704.7,deciduous,leaf-off,0.358431373,35.04036671,2155.430535,0.200413221,-0.05,no snow,1.905780002,9,0.218110741
+TN,soil,2,704.7,deciduous,leaf-off,0,35.04027718,2155.617056,0.200185152,-0.05,no snow,1.413253704,14.49333333,0.406930012
+TN,soil,3,704.7,deciduous,leaf-off,0,35.04055679,2155.034504,0.212186379,-0.05,no snow,1.037927593,10.18333333,0.740644549
+TN,soil,4,704.7,deciduous,leaf-off,0,35.04026302,2155.646552,0.453395764,-0.05,no snow,1.24379084,7.026666667,0.704427612
+TN,soil,5,704.7,deciduous,leaf-off,0,35.04034982,2155.46572,0.857840909,-0.05,no snow,0.869307817,5.59,0.568978267
+TN,soil,6,704.7,deciduous,leaf-on,0,35.04026302,2155.646552,0.993687345,-0.05,no snow,0.7547331,2.936666667,0.560280964
+TN,soil,7,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.999816824,-0.05,no snow,0.732434842,2.27,0.446021053
+TN,soil,8,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.999528768,-0.05,no snow,0.630244027,2.613333333,0.318636372
+TN,soil,9,704.7,deciduous,leaf-on,0,35.04036671,2155.430535,0.993935059,-0.05,no snow,0.750253042,3.213333333,0.517197483
+TN,soil,10,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.771054886,-0.05,no snow,0.850179504,7.91,0.71359138
+TN,soil,11,704.7,deciduous,leaf-off,0,35.04026302,2155.646552,0.250006811,-0.05,no snow,0.9239429,7.696666667,0.717394215
+TN,soil,12,704.7,deciduous,leaf-off,0.7,35.04045211,2155.25259,0.200742989,-0.05,no snow,0.996591318,7.486666667,0.501940284
+TN,surface,1,704.7,deciduous,leaf-off,0.358431373,35.04036671,2155.430535,0.200269356,1,no snow,1.046388713,23.0475,0.563873867
+TN,surface,2,704.7,deciduous,leaf-off,0,35.04027718,2155.617056,0.200121262,1,no snow,0.922430475,23.35,0.646523301
+TN,surface,3,704.7,deciduous,leaf-off,0,35.04034982,2155.46572,0.211905519,1,no snow,0.9042128,27.63333333,0.78195074
+TN,surface,4,704.7,deciduous,leaf-off,0,35.04026302,2155.646552,0.453395764,1,no snow,0.975754467,25.75666667,0.727494739
+TN,surface,5,704.7,deciduous,leaf-off,0,35.04034982,2155.46572,0.857840909,1,no snow,0.967390071,21.49333333,0.734742707
+TN,surface,6,704.7,deciduous,leaf-on,0,35.04026302,2155.646552,0.993687345,1,no snow,0.900308889,13.33666667,0.629029885
+TN,surface,7,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.999816824,1,no snow,0.843908762,10.33666667,0.614356571
+TN,surface,8,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.999528768,1,no snow,0.877911109,10.91,0.607089519
+TN,surface,9,704.7,deciduous,leaf-on,0,35.04036671,2155.430535,0.993935059,1,no snow,0.89171383,13.45333333,0.661056772
+TN,surface,10,704.7,deciduous,leaf-on,0,35.04034982,2155.46572,0.771054886,1,no snow,0.903889503,21.68666667,0.712123884
+TN,surface,11,704.7,deciduous,leaf-off,0,35.04026302,2155.646552,0.250005393,1,no snow,0.961754253,24.90333333,0.833477807
+TN,surface,12,704.7,deciduous,leaf-off,0.7,35.04045211,2155.25259,0.200646568,1,no snow,0.982598475,23.78666667,0.724850756
+TZ_usambara,surface,7,159,degraded tropical broadleaf,leaf-on,0,-5.0874335,747.7825937,1,1,no snow,0.835496561,10.437,0.723734805
+TZ_usambara,surface,8,159,degraded tropical broadleaf,leaf-on,0,-5.0874335,747.7825937,1,1,no snow,0.896564406,11.938,0.713517973
+TZ_usambara,surface,9,159,degraded tropical broadleaf,leaf-on,0,-5.0874335,747.7825937,1,1,no snow,0.96136869,11.5,0.761028948
+TZ_usambara,surface,10,159,degraded tropical broadleaf,leaf-on,0,-5.0874335,747.7825937,1,1,no snow,0.952606085,11.875,0.700408788
+AK_ameriflux,soil,9,421,alpine meadow,leaf-off,7.306402258,68.88525,0,0,-0.09,snow,NA,NA,NA
+AK_ameriflux,soil,10,421,alpine meadow,leaf-off,23.36128875,68.88525,0,0,-0.09,snow,NA,NA,NA
+AK_ameriflux,soil,11,421,alpine meadow,leaf-off,37.19361414,68.88525,0,0,-0.09,snow,NA,NA,NA
+AK_ameriflux,soil,12,421,alpine meadow,leaf-off,45.74261597,68.88525,0,0,-0.09,snow,NA,NA,NA
+AU,canopy,1,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,2,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,5,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,6,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,7,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,8,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,9,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,10,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,11,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+AU,canopy,12,900,tropical broadleaf,leaf-on,0,-15.73,1320.19739,1,19,no snow,NA,NA,NA
+MY_SAFE_degraded,surface,1,125.4231,degraded tropical broadleaf,leaf-on,0,4.693722,1155.185453,1,1.5,no snow,NA,NA,NA
+MY_SAFE_degraded,surface,2,125.4231,degraded tropical broadleaf,leaf-on,0,4.693722,1155.185453,1,1.5,no snow,NA,NA,NA
+MY_SAFE_degraded,surface,3,125.4231,degraded tropical broadleaf,leaf-on,0,4.693722,1155.185453,1,1.5,no snow,NA,NA,NA
+MY_SAFE_degraded,surface,4,125.4231,degraded tropical broadleaf,leaf-on,0,4.693722,1155.185453,1,1.5,no snow,NA,NA,NA
+MY_SAFE_degraded,surface,12,125.4231,degraded tropical broadleaf,leaf-on,0,4.693722,1155.185453,1,1.5,no snow,NA,NA,NA

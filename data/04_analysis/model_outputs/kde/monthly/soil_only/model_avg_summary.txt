@@ -1,0 +1,44 @@
+
+Call:
+model.avg(object = candidate_list, subset = delta < 4)
+
+Component model call: 
+lme4::lmer(formula = overlap ~ <3 unique rhs>, data = mountains, na.action = 
+     na.fail)
+
+Component models: 
+    df logLik    AICc delta weight
+13   5  70.47 -130.51  0.00   0.66
+134  6  70.33 -128.06  2.44   0.19
+123  6  70.09 -127.58  2.93   0.15
+
+Term codes: 
+elevation_change         latitude        snowdepth      veg_foliage 
+               1                2                3                4 
+
+Model-averaged coefficients:  
+(full average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       0.46772    0.09563     0.09626   4.859  1.2e-06 ***
+elevation_change -0.74675    0.22761     0.22949   3.254  0.00114 ** 
+snowdepth        -0.35295    0.05902     0.05952   5.930  < 2e-16 ***
+veg_foliage      -0.02467    0.05913     0.05927   0.416  0.67720    
+latitude          0.02484    0.09360     0.09410   0.264  0.79180    
+ 
+(conditional average) 
+                 Estimate Std. Error Adjusted SE z value Pr(>|z|)    
+(Intercept)       0.46772    0.09563     0.09626   4.859  1.2e-06 ***
+elevation_change -0.74675    0.22761     0.22949   3.254  0.00114 ** 
+snowdepth        -0.35295    0.05902     0.05952   5.930  < 2e-16 ***
+veg_foliage      -0.12776    0.07023     0.07084   1.804  0.07130 .  
+latitude          0.16370    0.18712     0.18874   0.867  0.38575    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Joining, by = "rowname"
+[1] "Parameter Confidence Intervals"
+                      2.5 %      97.5 %
+(Intercept)       0.2790471  0.65638697
+elevation_change -1.1965376 -0.29696103
+snowdepth        -0.4696082 -0.23629597
+veg_foliage      -0.2666085  0.01108067
+latitude         -0.2062174  0.53362506

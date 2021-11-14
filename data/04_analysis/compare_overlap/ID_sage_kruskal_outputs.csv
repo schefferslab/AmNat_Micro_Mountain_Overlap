@@ -1,0 +1,7 @@
+"","site","micro","year","chi_squared","df","p_value","method"
+"1","ID sage brush","soil",2014,8.67067669172934,1,0.00323371091731045,"overlap by foliage"
+"2","ID sage brush","surface",2014,0.0103448275862092,1,0.918987241070156,"overlap by foliage"
+"3","ID sage brush","soil",2015,74.444877787468,1,6.23552612558718e-18,"overlap by foliage"
+"4","ID sage brush","surface",2015,44.3415351437583,1,2.75801995328531e-11,"overlap by foliage"
+"5","ID sage brush","soil",2017,65.7484044980162,1,5.12320270128384e-16,"overlap by foliage"
+"6","ID sage brush","surface",2017,33.1891551186244,1,8.36155729205926e-09,"overlap by foliage"
